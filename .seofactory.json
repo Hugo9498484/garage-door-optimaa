@@ -1,0 +1,52 @@
+{
+  "brand": "garage door optima",
+  "domain": "garagedooroptima",
+  "phone": " (213) 348-7379",
+  "niche": "Garage Door Repair",
+  "dailyDrip": 100,
+  "services": [
+    {
+      "slug": "spring-replacement",
+      "title": "Torsion Spring Replacement",
+      "blurb": "Same-day residential torsion spring replacement, in pairs.",
+      "body": "Torsion springs are the highest-tension component in your garage. A broken spring turns a 200-pound door into a hazard the opener can't lift. We replace springs in pairs, sized to your exact door weight, with wind-count matched to travel — so both springs wear evenly and last their full cycle rating."
+    },
+    {
+      "slug": "opener-repair",
+      "title": "Opener Repair & Installation",
+      "blurb": "Belt, chain, and jackshaft openers from LiftMaster and Genie.",
+      "body": "We service every major opener brand and install new belt-drive, chain-drive, and jackshaft openers with battery backup, Wi-Fi control, and camera. Every install includes new safety sensor alignment and force-limit calibration to UL 325."
+    },
+    {
+      "slug": "cable-repair",
+      "title": "Cable & Roller Replacement",
+      "blurb": "Frayed cables, worn rollers, and off-track doors.",
+      "body": "Frayed cables snap without warning and drop the door. We replace lift cables in pairs, upgrade builder-grade steel rollers to nylon (quieter, longer life), and re-track doors that have jumped off the horizontal rails after an impact."
+    },
+    {
+      "slug": "panel-replacement",
+      "title": "Panel Replacement",
+      "blurb": "Match and replace damaged garage door panels.",
+      "body": "A single dented panel doesn't always mean a new door. We identify the manufacturer, gauge, and stamp pattern and order matching sections whenever they're still in production — cutting your repair cost by 60–80% compared to a full door replacement."
+    },
+    {
+      "slug": "new-door-installation",
+      "title": "New Door Installation",
+      "blurb": "Insulated steel, carriage-house, and custom wood doors.",
+      "body": "A new door is one of the highest-ROI exterior upgrades on a home. We install insulated steel doors from Clopay, Amarr, and Wayne Dalton, plus custom carriage-house and full-view aluminum designs — all with matching hardware, insulation, and weather sealing."
+    },
+    {
+      "slug": "off-track-repair",
+      "title": "Off-Track Repair",
+      "blurb": "Reset doors that have jumped their tracks after an impact.",
+      "body": "Off-track doors are usually the result of a bumper tap or a broken cable. We inspect the tracks, rollers, and cables for hidden damage, then reset the door and re-tension the springs — often on the first visit."
+    },
+    {
+      "slug": "maintenance-tune-up",
+      "title": "Annual Tune-Up",
+      "blurb": "Lubrication, balance test, safety sensor check, and force calibration.",
+      "body": "A 30-minute annual tune-up catches worn rollers, loose hardware, and dying springs before they strand you outside. Every tune-up includes UL 325 safety reversal tests on both the auto-reverse and the photo eyes."
+    }
+  ],
+  "generatedAt": "2026-07-18T01:28:02.260Z"
+}

@@ -1,0 +1,23 @@
+name: Daily Drip
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  drip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/drip.mjs
+      - run: node scripts/build.mjs
+      - name: Commit
+        run: |
+          git config user.name "seofactory-bot"
+          git config user.email "bot@seofactory.dev"
+          git add -A
+          git diff --staged --quiet || git commit -m "drip: publish next batch of cities"
+          git push

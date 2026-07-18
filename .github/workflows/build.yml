@@ -1,0 +1,21 @@
+name: Build
+on:
+  push:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/build.mjs
+      - name: Commit public/
+        run: |
+          git config user.name "seofactory-bot"
+          git config user.email "bot@seofactory.dev"
+          git add public/
+          git diff --staged --quiet || git commit -m "build: regenerate public/"
+          git push
