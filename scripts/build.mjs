@@ -31,10 +31,15 @@ const svcImg = imgMap.services || {};
 const stateImg = imgMap.states || {};
 const brandImg = imgMap.brand || {};
 const svcImgKeys = Object.keys(svcImg);
-function cityImg(slug) {
-  if (!svcImgKeys.length) return null;
+function pickImgForKey(slug, map, keys) {
+  if (map && map[slug]) return map[slug];
+  if (!keys.length) return null;
   let h = 0; for (let i=0;i<slug.length;i++) h = (h*31 + slug.charCodeAt(i)) >>> 0;
-  return svcImg[svcImgKeys[h % svcImgKeys.length]];
+  return map[keys[h % keys.length]];
+}
+function serviceImg(slug) { return pickImgForKey(slug, svcImg, svcImgKeys); }
+function cityImg(slug) {
+  return pickImgForKey(slug, svcImg, svcImgKeys);
 }
 
 const OUT = 'public';
@@ -91,7 +96,7 @@ function layout(o) {
 
 // ---- Pages ----
 
-const svcCards = cfg.services.map(s => '<a class="card" href="/services/' + s.slug + '/"><h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p></a>').join('');
+const svcCards = cfg.services.map(s => { const si = serviceImg(s.slug); return '<a class="card' + (si?' card-img':'') + '" href="/services/' + s.slug + '/">' + (si ? '<div class="card-thumb" style="background-image:url(' + si + ')"></div>' : '') + '<h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p></a>'; }).join('');
 const featured = (() => {
   const out = []; const all = [];
   for (const s of states) for (const c of s.cities) all.push({s, c});
@@ -116,11 +121,11 @@ write('services/index.html', layout({
   path:'/services/', title: cfg.niche + ' Services — ' + cfg.brand,
   description: 'Full list of ' + cfg.niche.toLowerCase() + ' services from ' + cfg.brand + '. Call ' + cfg.phone + '.',
   h1: cfg.niche + ' Services',
-  body: '<p class="lede">Our full ' + esc(cfg.niche) + ' service list. Each page explains the problems we solve, how we diagnose them, and what the repair usually costs.</p><div class="grid grid-2 cards">' + cfg.services.map(s => '<a class="card" href="/services/' + s.slug + '/"><h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p></a>').join('') + '</div>',
+  body: '<p class="lede">Our full ' + esc(cfg.niche) + ' service list. Each page explains the problems we solve, how we diagnose them, and what the repair usually costs.</p><div class="grid grid-2 cards">' + cfg.services.map(s => { const si = serviceImg(s.slug); return '<a class="card' + (si?' card-img':'') + '" href="/services/' + s.slug + '/">' + (si ? '<div class="card-thumb" style="background-image:url(' + si + ')"></div>' : '') + '<h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p></a>'; }).join('') + '</div>',
 }));
 
 for (const s of cfg.services) {
-  const img = svcImg[s.slug];
+  const img = serviceImg(s.slug);
   write('services/' + s.slug + '/index.html', layout({
     path:'/services/' + s.slug + '/', title: s.title + ' — ' + cfg.brand,
     description: s.blurb + ' Call ' + cfg.phone + '.', h1: s.title,
@@ -139,7 +144,7 @@ write('locations/index.html', layout({
   h1:'Service Areas',
   body:'<p class="lede">' + esc(cfg.brand) + ' serves ' + stats.cities.toLocaleString() + ' cities and ' + stats.zips.toLocaleString() + ' ZIP codes across ' + stats.states + ' states.</p>' +
     '<div class="grid grid-3 state-cards">' + states.map(s => {
-      const si = stateImg[s.id] || stateImg[s.slug];
+      const si = stateImg[s.id] || stateImg[String(s.id).toLowerCase()] || stateImg[s.slug];
       return '<a class="state-card" href="/locations/' + s.slug + '/">' +
         (si ? '<div class="state-card-img" style="background-image:url(' + si + ')"></div>' : '<div class="state-card-img state-card-img-fallback"></div>') +
         '<div class="state-card-body"><h3>' + esc(s.name) + '</h3><p>' + s.cities.length.toLocaleString() + ' cities</p></div></a>';
@@ -148,7 +153,7 @@ write('locations/index.html', layout({
 
 for (const state of states) {
   const zipTotal = state.cities.reduce((a,c) => a + (c.zips||[]).length, 0);
-  const sImg = stateImg[state.id] || stateImg[state.slug];
+  const sImg = stateImg[state.id] || stateImg[String(state.id).toLowerCase()] || stateImg[state.slug];
   write('locations/' + state.slug + '/index.html', layout({
     path:'/locations/' + state.slug + '/',
     title: cfg.niche + ' in ' + state.name + ' — ' + cfg.brand,
@@ -181,7 +186,7 @@ for (const state of states) {
         '<ul class="hero-badges"><li>✓ Same-day service</li><li>✓ Licensed & insured</li><li>✓ Fixed pricing</li><li>✓ Workmanship warranty</li></ul>' +
       '</div></section>' +
       '<section class="sec"><h2>Our ' + esc(cfg.niche) + ' services in ' + esc(c.name) + '</h2><p>' + esc(v.whyCity) + '</p>' +
-        '<div class="grid grid-3 cards">' + cfg.services.slice(0,9).map(s => { const si = svcImg[s.slug]; return '<a class="card' + (si?' card-img':'') + '" href="/services/' + s.slug + '/">' + (si ? '<div class="card-thumb" style="background-image:url(' + si + ')"></div>' : '') + '<h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p><span class="more">Learn more →</span></a>'; }).join('') + '</div></section>' +
+        '<div class="grid grid-3 cards">' + cfg.services.slice(0,9).map(s => { const si = serviceImg(s.slug); return '<a class="card' + (si?' card-img':'') + '" href="/services/' + s.slug + '/">' + (si ? '<div class="card-thumb" style="background-image:url(' + si + ')"></div>' : '') + '<h3>' + esc(s.title) + '</h3><p>' + esc(s.blurb) + '</p><span class="more">Learn more →</span></a>'; }).join('') + '</div></section>' +
       '<section class="sec sec-alt"><h2>' + esc(v.h2Why) + '</h2>' +
         '<div class="grid grid-2"><div><p>' + esc(v.problems) + '</p></div><div><p>' + esc(v.pricing) + '</p></div></div>' +
         '<ul class="check check-grid">' + v.whyUs.map(w => '<li>' + esc(w) + '</li>').join('') + '</ul></section>' +
