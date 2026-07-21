@@ -21199,7 +21199,407 @@
     {
       "state": "georgia",
       "city": "oglethorpe"
+    },
+    {
+      "state": "georgia",
+      "city": "oliver"
+    },
+    {
+      "state": "georgia",
+      "city": "omega"
+    },
+    {
+      "state": "georgia",
+      "city": "orchard-hill"
+    },
+    {
+      "state": "georgia",
+      "city": "oxford"
+    },
+    {
+      "state": "georgia",
+      "city": "palmetto"
+    },
+    {
+      "state": "georgia",
+      "city": "panthersville"
+    },
+    {
+      "state": "georgia",
+      "city": "parrott"
+    },
+    {
+      "state": "georgia",
+      "city": "patterson"
+    },
+    {
+      "state": "georgia",
+      "city": "pavo"
+    },
+    {
+      "state": "georgia",
+      "city": "peachtree-city"
+    },
+    {
+      "state": "georgia",
+      "city": "peachtree-corners"
+    },
+    {
+      "state": "georgia",
+      "city": "pearson"
+    },
+    {
+      "state": "georgia",
+      "city": "pelham"
+    },
+    {
+      "state": "georgia",
+      "city": "pembroke"
+    },
+    {
+      "state": "georgia",
+      "city": "pendergrass"
+    },
+    {
+      "state": "georgia",
+      "city": "perkins"
+    },
+    {
+      "state": "georgia",
+      "city": "perry"
+    },
+    {
+      "state": "georgia",
+      "city": "phillipsburg"
+    },
+    {
+      "state": "georgia",
+      "city": "pine-lake"
+    },
+    {
+      "state": "georgia",
+      "city": "pine-mountain"
+    },
+    {
+      "state": "georgia",
+      "city": "pinehurst"
+    },
+    {
+      "state": "georgia",
+      "city": "pineview"
+    },
+    {
+      "state": "georgia",
+      "city": "pitts"
+    },
+    {
+      "state": "georgia",
+      "city": "plains"
+    },
+    {
+      "state": "georgia",
+      "city": "plainville"
+    },
+    {
+      "state": "georgia",
+      "city": "pooler"
+    },
+    {
+      "state": "georgia",
+      "city": "port-wentworth"
+    },
+    {
+      "state": "georgia",
+      "city": "portal"
+    },
+    {
+      "state": "georgia",
+      "city": "porterdale"
+    },
+    {
+      "state": "georgia",
+      "city": "poulan"
+    },
+    {
+      "state": "georgia",
+      "city": "powder-springs"
+    },
+    {
+      "state": "georgia",
+      "city": "pulaski"
+    },
+    {
+      "state": "georgia",
+      "city": "putney"
+    },
+    {
+      "state": "georgia",
+      "city": "quitman"
+    },
+    {
+      "state": "georgia",
+      "city": "ranger"
+    },
+    {
+      "state": "georgia",
+      "city": "raoul"
+    },
+    {
+      "state": "georgia",
+      "city": "ray-city"
+    },
+    {
+      "state": "georgia",
+      "city": "rayle"
+    },
+    {
+      "state": "georgia",
+      "city": "rebecca"
+    },
+    {
+      "state": "georgia",
+      "city": "redan"
+    },
+    {
+      "state": "georgia",
+      "city": "reed-creek"
+    },
+    {
+      "state": "georgia",
+      "city": "register"
+    },
+    {
+      "state": "georgia",
+      "city": "reidsville"
+    },
+    {
+      "state": "georgia",
+      "city": "remerton"
+    },
+    {
+      "state": "georgia",
+      "city": "rentz"
+    },
+    {
+      "state": "georgia",
+      "city": "resaca"
+    },
+    {
+      "state": "georgia",
+      "city": "rest-haven"
+    },
+    {
+      "state": "georgia",
+      "city": "reynolds"
+    },
+    {
+      "state": "georgia",
+      "city": "rhine"
+    },
+    {
+      "state": "georgia",
+      "city": "riceboro"
+    },
+    {
+      "state": "georgia",
+      "city": "richland"
+    },
+    {
+      "state": "georgia",
+      "city": "richmond-hill"
+    },
+    {
+      "state": "georgia",
+      "city": "riddleville"
+    },
+    {
+      "state": "georgia",
+      "city": "rincon"
+    },
+    {
+      "state": "georgia",
+      "city": "ringgold"
+    },
+    {
+      "state": "georgia",
+      "city": "riverdale"
+    },
+    {
+      "state": "georgia",
+      "city": "roberta"
+    },
+    {
+      "state": "georgia",
+      "city": "robins-afb"
+    },
+    {
+      "state": "georgia",
+      "city": "rochelle"
+    },
+    {
+      "state": "georgia",
+      "city": "rockingham"
+    },
+    {
+      "state": "georgia",
+      "city": "rockmart"
+    },
+    {
+      "state": "georgia",
+      "city": "rocky-ford"
+    },
+    {
+      "state": "georgia",
+      "city": "rome"
+    },
+    {
+      "state": "georgia",
+      "city": "roopville"
+    },
+    {
+      "state": "georgia",
+      "city": "rossville"
+    },
+    {
+      "state": "georgia",
+      "city": "roswell"
+    },
+    {
+      "state": "georgia",
+      "city": "royston"
+    },
+    {
+      "state": "georgia",
+      "city": "russell"
+    },
+    {
+      "state": "georgia",
+      "city": "rutledge"
+    },
+    {
+      "state": "georgia",
+      "city": "sale-city"
+    },
+    {
+      "state": "georgia",
+      "city": "salem"
+    },
+    {
+      "state": "georgia",
+      "city": "sandersville"
+    },
+    {
+      "state": "georgia",
+      "city": "sandy-springs"
+    },
+    {
+      "state": "georgia",
+      "city": "santa-claus"
+    },
+    {
+      "state": "georgia",
+      "city": "sardis"
+    },
+    {
+      "state": "georgia",
+      "city": "sasser"
+    },
+    {
+      "state": "georgia",
+      "city": "satilla"
+    },
+    {
+      "state": "georgia",
+      "city": "sautee-nacoochee"
+    },
+    {
+      "state": "georgia",
+      "city": "savannah"
+    },
+    {
+      "state": "georgia",
+      "city": "scotland"
+    },
+    {
+      "state": "georgia",
+      "city": "scottdale"
+    },
+    {
+      "state": "georgia",
+      "city": "screven"
+    },
+    {
+      "state": "georgia",
+      "city": "senoia"
+    },
+    {
+      "state": "georgia",
+      "city": "seville"
+    },
+    {
+      "state": "georgia",
+      "city": "shady-dale"
+    },
+    {
+      "state": "georgia",
+      "city": "shannon"
+    },
+    {
+      "state": "georgia",
+      "city": "sharon"
+    },
+    {
+      "state": "georgia",
+      "city": "sharpsburg"
+    },
+    {
+      "state": "georgia",
+      "city": "shellman"
+    },
+    {
+      "state": "georgia",
+      "city": "shiloh"
+    },
+    {
+      "state": "georgia",
+      "city": "siloam"
+    },
+    {
+      "state": "georgia",
+      "city": "skidaway-island"
+    },
+    {
+      "state": "georgia",
+      "city": "sky-valley"
+    },
+    {
+      "state": "georgia",
+      "city": "smithville"
+    },
+    {
+      "state": "georgia",
+      "city": "smyrna"
+    },
+    {
+      "state": "georgia",
+      "city": "snellville"
+    },
+    {
+      "state": "georgia",
+      "city": "social-circle"
+    },
+    {
+      "state": "georgia",
+      "city": "soperton"
+    },
+    {
+      "state": "georgia",
+      "city": "south-fulton"
+    },
+    {
+      "state": "georgia",
+      "city": "sparks"
     }
   ],
-  "generatedAt": "2026-07-20T11:36:46.450Z"
+  "generatedAt": "2026-07-21T10:56:44.281Z"
 }
