@@ -24399,7 +24399,407 @@
     {
       "state": "illinois",
       "city": "chenoa"
+    },
+    {
+      "state": "illinois",
+      "city": "cherry"
+    },
+    {
+      "state": "illinois",
+      "city": "cherry-valley"
+    },
+    {
+      "state": "illinois",
+      "city": "chester"
+    },
+    {
+      "state": "illinois",
+      "city": "chesterfield"
+    },
+    {
+      "state": "illinois",
+      "city": "chestnut"
+    },
+    {
+      "state": "illinois",
+      "city": "chicago"
+    },
+    {
+      "state": "illinois",
+      "city": "chicago-heights"
+    },
+    {
+      "state": "illinois",
+      "city": "chicago-ridge"
+    },
+    {
+      "state": "illinois",
+      "city": "chillicothe"
+    },
+    {
+      "state": "illinois",
+      "city": "chrisman"
+    },
+    {
+      "state": "illinois",
+      "city": "christopher"
+    },
+    {
+      "state": "illinois",
+      "city": "cicero"
+    },
+    {
+      "state": "illinois",
+      "city": "cisco"
+    },
+    {
+      "state": "illinois",
+      "city": "cisne"
+    },
+    {
+      "state": "illinois",
+      "city": "cissna-park"
+    },
+    {
+      "state": "illinois",
+      "city": "claremont"
+    },
+    {
+      "state": "illinois",
+      "city": "clarendon-hills"
+    },
+    {
+      "state": "illinois",
+      "city": "clay-city"
+    },
+    {
+      "state": "illinois",
+      "city": "clayton"
+    },
+    {
+      "state": "illinois",
+      "city": "clear-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "cleveland"
+    },
+    {
+      "state": "illinois",
+      "city": "clifton"
+    },
+    {
+      "state": "illinois",
+      "city": "clinton"
+    },
+    {
+      "state": "illinois",
+      "city": "coal-city"
+    },
+    {
+      "state": "illinois",
+      "city": "coal-valley"
+    },
+    {
+      "state": "illinois",
+      "city": "coalton"
+    },
+    {
+      "state": "illinois",
+      "city": "coatsburg"
+    },
+    {
+      "state": "illinois",
+      "city": "cobden"
+    },
+    {
+      "state": "illinois",
+      "city": "coffeen"
+    },
+    {
+      "state": "illinois",
+      "city": "colchester"
+    },
+    {
+      "state": "illinois",
+      "city": "coleta"
+    },
+    {
+      "state": "illinois",
+      "city": "colfax"
+    },
+    {
+      "state": "illinois",
+      "city": "collinsville"
+    },
+    {
+      "state": "illinois",
+      "city": "colona"
+    },
+    {
+      "state": "illinois",
+      "city": "colp"
+    },
+    {
+      "state": "illinois",
+      "city": "columbia"
+    },
+    {
+      "state": "illinois",
+      "city": "columbus"
+    },
+    {
+      "state": "illinois",
+      "city": "como"
+    },
+    {
+      "state": "illinois",
+      "city": "compton"
+    },
+    {
+      "state": "illinois",
+      "city": "concord"
+    },
+    {
+      "state": "illinois",
+      "city": "congerville"
+    },
+    {
+      "state": "illinois",
+      "city": "cooksville"
+    },
+    {
+      "state": "illinois",
+      "city": "cordova"
+    },
+    {
+      "state": "illinois",
+      "city": "cornell"
+    },
+    {
+      "state": "illinois",
+      "city": "cornland"
+    },
+    {
+      "state": "illinois",
+      "city": "cortland"
+    },
+    {
+      "state": "illinois",
+      "city": "coulterville"
+    },
+    {
+      "state": "illinois",
+      "city": "country-club-hills"
+    },
+    {
+      "state": "illinois",
+      "city": "countryside"
+    },
+    {
+      "state": "illinois",
+      "city": "cowden"
+    },
+    {
+      "state": "illinois",
+      "city": "coyne-center"
+    },
+    {
+      "state": "illinois",
+      "city": "crab-orchard"
+    },
+    {
+      "state": "illinois",
+      "city": "crainville"
+    },
+    {
+      "state": "illinois",
+      "city": "creal-springs"
+    },
+    {
+      "state": "illinois",
+      "city": "crescent-city"
+    },
+    {
+      "state": "illinois",
+      "city": "crest-hill"
+    },
+    {
+      "state": "illinois",
+      "city": "creston"
+    },
+    {
+      "state": "illinois",
+      "city": "crestwood"
+    },
+    {
+      "state": "illinois",
+      "city": "crete"
+    },
+    {
+      "state": "illinois",
+      "city": "creve-coeur"
+    },
+    {
+      "state": "illinois",
+      "city": "crossville"
+    },
+    {
+      "state": "illinois",
+      "city": "crystal-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "crystal-lawns"
+    },
+    {
+      "state": "illinois",
+      "city": "cuba"
+    },
+    {
+      "state": "illinois",
+      "city": "cullom"
+    },
+    {
+      "state": "illinois",
+      "city": "curran"
+    },
+    {
+      "state": "illinois",
+      "city": "cutler"
+    },
+    {
+      "state": "illinois",
+      "city": "cypress"
+    },
+    {
+      "state": "illinois",
+      "city": "dahlgren"
+    },
+    {
+      "state": "illinois",
+      "city": "dakota"
+    },
+    {
+      "state": "illinois",
+      "city": "dallas-city"
+    },
+    {
+      "state": "illinois",
+      "city": "dalton-city"
+    },
+    {
+      "state": "illinois",
+      "city": "dalzell"
+    },
+    {
+      "state": "illinois",
+      "city": "damiansville"
+    },
+    {
+      "state": "illinois",
+      "city": "dana"
+    },
+    {
+      "state": "illinois",
+      "city": "danforth"
+    },
+    {
+      "state": "illinois",
+      "city": "danvers"
+    },
+    {
+      "state": "illinois",
+      "city": "danville"
+    },
+    {
+      "state": "illinois",
+      "city": "darien"
+    },
+    {
+      "state": "illinois",
+      "city": "davis"
+    },
+    {
+      "state": "illinois",
+      "city": "davis-junction"
+    },
+    {
+      "state": "illinois",
+      "city": "dawson"
+    },
+    {
+      "state": "illinois",
+      "city": "dayton"
+    },
+    {
+      "state": "illinois",
+      "city": "de-land"
+    },
+    {
+      "state": "illinois",
+      "city": "de-pue"
+    },
+    {
+      "state": "illinois",
+      "city": "de-soto"
+    },
+    {
+      "state": "illinois",
+      "city": "de-witt"
+    },
+    {
+      "state": "illinois",
+      "city": "decatur"
+    },
+    {
+      "state": "illinois",
+      "city": "deer-creek"
+    },
+    {
+      "state": "illinois",
+      "city": "deer-grove"
+    },
+    {
+      "state": "illinois",
+      "city": "deer-park"
+    },
+    {
+      "state": "illinois",
+      "city": "deerfield"
+    },
+    {
+      "state": "illinois",
+      "city": "dekalb"
+    },
+    {
+      "state": "illinois",
+      "city": "delavan"
+    },
+    {
+      "state": "illinois",
+      "city": "des-plaines"
+    },
+    {
+      "state": "illinois",
+      "city": "detroit"
+    },
+    {
+      "state": "illinois",
+      "city": "diamond"
+    },
+    {
+      "state": "illinois",
+      "city": "dieterich"
+    },
+    {
+      "state": "illinois",
+      "city": "divernon"
+    },
+    {
+      "state": "illinois",
+      "city": "dix"
     }
   ],
-  "generatedAt": "2026-07-28T11:09:21.241Z"
+  "generatedAt": "2026-07-29T11:14:26.867Z"
 }
