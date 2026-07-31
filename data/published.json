@@ -25199,7 +25199,407 @@
     {
       "state": "illinois",
       "city": "forest-city"
+    },
+    {
+      "state": "illinois",
+      "city": "forest-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "forest-park"
+    },
+    {
+      "state": "illinois",
+      "city": "forest-view"
+    },
+    {
+      "state": "illinois",
+      "city": "forrest"
+    },
+    {
+      "state": "illinois",
+      "city": "forreston"
+    },
+    {
+      "state": "illinois",
+      "city": "forsyth"
+    },
+    {
+      "state": "illinois",
+      "city": "fox-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "fox-lake-hills"
+    },
+    {
+      "state": "illinois",
+      "city": "fox-river-grove"
+    },
+    {
+      "state": "illinois",
+      "city": "frankfort"
+    },
+    {
+      "state": "illinois",
+      "city": "frankfort-square"
+    },
+    {
+      "state": "illinois",
+      "city": "franklin"
+    },
+    {
+      "state": "illinois",
+      "city": "franklin-grove"
+    },
+    {
+      "state": "illinois",
+      "city": "franklin-park"
+    },
+    {
+      "state": "illinois",
+      "city": "freeburg"
+    },
+    {
+      "state": "illinois",
+      "city": "freeman-spur"
+    },
+    {
+      "state": "illinois",
+      "city": "freeport"
+    },
+    {
+      "state": "illinois",
+      "city": "fulton"
+    },
+    {
+      "state": "illinois",
+      "city": "fults"
+    },
+    {
+      "state": "illinois",
+      "city": "gages-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "galatia"
+    },
+    {
+      "state": "illinois",
+      "city": "galena"
+    },
+    {
+      "state": "illinois",
+      "city": "galesburg"
+    },
+    {
+      "state": "illinois",
+      "city": "galva"
+    },
+    {
+      "state": "illinois",
+      "city": "garden-prairie"
+    },
+    {
+      "state": "illinois",
+      "city": "gardner"
+    },
+    {
+      "state": "illinois",
+      "city": "garrett"
+    },
+    {
+      "state": "illinois",
+      "city": "gays"
+    },
+    {
+      "state": "illinois",
+      "city": "geneseo"
+    },
+    {
+      "state": "illinois",
+      "city": "geneva"
+    },
+    {
+      "state": "illinois",
+      "city": "genoa"
+    },
+    {
+      "state": "illinois",
+      "city": "georgetown"
+    },
+    {
+      "state": "illinois",
+      "city": "german-valley"
+    },
+    {
+      "state": "illinois",
+      "city": "germantown"
+    },
+    {
+      "state": "illinois",
+      "city": "germantown-hills"
+    },
+    {
+      "state": "illinois",
+      "city": "gibson-city"
+    },
+    {
+      "state": "illinois",
+      "city": "gifford"
+    },
+    {
+      "state": "illinois",
+      "city": "gilberts"
+    },
+    {
+      "state": "illinois",
+      "city": "gillespie"
+    },
+    {
+      "state": "illinois",
+      "city": "gilman"
+    },
+    {
+      "state": "illinois",
+      "city": "gilson"
+    },
+    {
+      "state": "illinois",
+      "city": "girard"
+    },
+    {
+      "state": "illinois",
+      "city": "gladstone"
+    },
+    {
+      "state": "illinois",
+      "city": "glasford"
+    },
+    {
+      "state": "illinois",
+      "city": "glasgow"
+    },
+    {
+      "state": "illinois",
+      "city": "glen-carbon"
+    },
+    {
+      "state": "illinois",
+      "city": "glen-ellyn"
+    },
+    {
+      "state": "illinois",
+      "city": "glencoe"
+    },
+    {
+      "state": "illinois",
+      "city": "glendale-heights"
+    },
+    {
+      "state": "illinois",
+      "city": "glenview"
+    },
+    {
+      "state": "illinois",
+      "city": "glenwood"
+    },
+    {
+      "state": "illinois",
+      "city": "godfrey"
+    },
+    {
+      "state": "illinois",
+      "city": "godley"
+    },
+    {
+      "state": "illinois",
+      "city": "golconda"
+    },
+    {
+      "state": "illinois",
+      "city": "golden"
+    },
+    {
+      "state": "illinois",
+      "city": "golden-gate"
+    },
+    {
+      "state": "illinois",
+      "city": "golf"
+    },
+    {
+      "state": "illinois",
+      "city": "good-hope"
+    },
+    {
+      "state": "illinois",
+      "city": "goodfield"
+    },
+    {
+      "state": "illinois",
+      "city": "goofy-ridge"
+    },
+    {
+      "state": "illinois",
+      "city": "goreville"
+    },
+    {
+      "state": "illinois",
+      "city": "gorham"
+    },
+    {
+      "state": "illinois",
+      "city": "grafton"
+    },
+    {
+      "state": "illinois",
+      "city": "grand-detour"
+    },
+    {
+      "state": "illinois",
+      "city": "grand-ridge"
+    },
+    {
+      "state": "illinois",
+      "city": "grand-tower"
+    },
+    {
+      "state": "illinois",
+      "city": "grandview"
+    },
+    {
+      "state": "illinois",
+      "city": "grandwood-park"
+    },
+    {
+      "state": "illinois",
+      "city": "granite-city"
+    },
+    {
+      "state": "illinois",
+      "city": "grant-park"
+    },
+    {
+      "state": "illinois",
+      "city": "grantfork"
+    },
+    {
+      "state": "illinois",
+      "city": "granville"
+    },
+    {
+      "state": "illinois",
+      "city": "grayslake"
+    },
+    {
+      "state": "illinois",
+      "city": "grayville"
+    },
+    {
+      "state": "illinois",
+      "city": "green-oaks"
+    },
+    {
+      "state": "illinois",
+      "city": "green-valley"
+    },
+    {
+      "state": "illinois",
+      "city": "greenfield"
+    },
+    {
+      "state": "illinois",
+      "city": "greenup"
+    },
+    {
+      "state": "illinois",
+      "city": "greenview"
+    },
+    {
+      "state": "illinois",
+      "city": "greenville"
+    },
+    {
+      "state": "illinois",
+      "city": "greenwood"
+    },
+    {
+      "state": "illinois",
+      "city": "gridley"
+    },
+    {
+      "state": "illinois",
+      "city": "griggsville"
+    },
+    {
+      "state": "illinois",
+      "city": "gulf-port"
+    },
+    {
+      "state": "illinois",
+      "city": "gurnee"
+    },
+    {
+      "state": "illinois",
+      "city": "hainesville"
+    },
+    {
+      "state": "illinois",
+      "city": "hamburg"
+    },
+    {
+      "state": "illinois",
+      "city": "hamel"
+    },
+    {
+      "state": "illinois",
+      "city": "hamilton"
+    },
+    {
+      "state": "illinois",
+      "city": "hammond"
+    },
+    {
+      "state": "illinois",
+      "city": "hampshire"
+    },
+    {
+      "state": "illinois",
+      "city": "hampton"
+    },
+    {
+      "state": "illinois",
+      "city": "hanaford"
+    },
+    {
+      "state": "illinois",
+      "city": "hanna-city"
+    },
+    {
+      "state": "illinois",
+      "city": "hanover"
+    },
+    {
+      "state": "illinois",
+      "city": "hanover-park"
+    },
+    {
+      "state": "illinois",
+      "city": "hardin"
+    },
+    {
+      "state": "illinois",
+      "city": "harmon"
+    },
+    {
+      "state": "illinois",
+      "city": "harrisburg"
+    },
+    {
+      "state": "illinois",
+      "city": "harrison"
     }
   ],
-  "generatedAt": "2026-07-30T10:59:08.266Z"
+  "generatedAt": "2026-07-31T11:21:21.814Z"
 }
