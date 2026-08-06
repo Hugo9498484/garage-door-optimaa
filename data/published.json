@@ -27599,7 +27599,407 @@
     {
       "state": "illinois",
       "city": "rantoul"
+    },
+    {
+      "state": "illinois",
+      "city": "rapids-city"
+    },
+    {
+      "state": "illinois",
+      "city": "raritan"
+    },
+    {
+      "state": "illinois",
+      "city": "raymond"
+    },
+    {
+      "state": "illinois",
+      "city": "red-bud"
+    },
+    {
+      "state": "illinois",
+      "city": "reddick"
+    },
+    {
+      "state": "illinois",
+      "city": "redmon"
+    },
+    {
+      "state": "illinois",
+      "city": "rentchler"
+    },
+    {
+      "state": "illinois",
+      "city": "reynolds"
+    },
+    {
+      "state": "illinois",
+      "city": "richmond"
+    },
+    {
+      "state": "illinois",
+      "city": "richton-park"
+    },
+    {
+      "state": "illinois",
+      "city": "richview"
+    },
+    {
+      "state": "illinois",
+      "city": "ridge-farm"
+    },
+    {
+      "state": "illinois",
+      "city": "ridgway"
+    },
+    {
+      "state": "illinois",
+      "city": "ridott"
+    },
+    {
+      "state": "illinois",
+      "city": "ringwood"
+    },
+    {
+      "state": "illinois",
+      "city": "rio"
+    },
+    {
+      "state": "illinois",
+      "city": "ripley"
+    },
+    {
+      "state": "illinois",
+      "city": "river-forest"
+    },
+    {
+      "state": "illinois",
+      "city": "river-grove"
+    },
+    {
+      "state": "illinois",
+      "city": "riverdale"
+    },
+    {
+      "state": "illinois",
+      "city": "riverside"
+    },
+    {
+      "state": "illinois",
+      "city": "riverton"
+    },
+    {
+      "state": "illinois",
+      "city": "riverwoods"
+    },
+    {
+      "state": "illinois",
+      "city": "roanoke"
+    },
+    {
+      "state": "illinois",
+      "city": "robbins"
+    },
+    {
+      "state": "illinois",
+      "city": "roberts"
+    },
+    {
+      "state": "illinois",
+      "city": "robinson"
+    },
+    {
+      "state": "illinois",
+      "city": "rochelle"
+    },
+    {
+      "state": "illinois",
+      "city": "rochester"
+    },
+    {
+      "state": "illinois",
+      "city": "rock-city"
+    },
+    {
+      "state": "illinois",
+      "city": "rock-falls"
+    },
+    {
+      "state": "illinois",
+      "city": "rock-island"
+    },
+    {
+      "state": "illinois",
+      "city": "rockbridge"
+    },
+    {
+      "state": "illinois",
+      "city": "rockdale"
+    },
+    {
+      "state": "illinois",
+      "city": "rockford"
+    },
+    {
+      "state": "illinois",
+      "city": "rockton"
+    },
+    {
+      "state": "illinois",
+      "city": "rockwood"
+    },
+    {
+      "state": "illinois",
+      "city": "rolling-meadows"
+    },
+    {
+      "state": "illinois",
+      "city": "rome"
+    },
+    {
+      "state": "illinois",
+      "city": "romeoville"
+    },
+    {
+      "state": "illinois",
+      "city": "roodhouse"
+    },
+    {
+      "state": "illinois",
+      "city": "roscoe"
+    },
+    {
+      "state": "illinois",
+      "city": "rose-hill"
+    },
+    {
+      "state": "illinois",
+      "city": "roselle"
+    },
+    {
+      "state": "illinois",
+      "city": "rosemont"
+    },
+    {
+      "state": "illinois",
+      "city": "roseville"
+    },
+    {
+      "state": "illinois",
+      "city": "rosewood-heights"
+    },
+    {
+      "state": "illinois",
+      "city": "rosiclare"
+    },
+    {
+      "state": "illinois",
+      "city": "rossville"
+    },
+    {
+      "state": "illinois",
+      "city": "round-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "round-lake-beach"
+    },
+    {
+      "state": "illinois",
+      "city": "round-lake-heights"
+    },
+    {
+      "state": "illinois",
+      "city": "round-lake-park"
+    },
+    {
+      "state": "illinois",
+      "city": "roxana"
+    },
+    {
+      "state": "illinois",
+      "city": "royal"
+    },
+    {
+      "state": "illinois",
+      "city": "royal-lakes"
+    },
+    {
+      "state": "illinois",
+      "city": "royalton"
+    },
+    {
+      "state": "illinois",
+      "city": "ruma"
+    },
+    {
+      "state": "illinois",
+      "city": "rushville"
+    },
+    {
+      "state": "illinois",
+      "city": "russellville"
+    },
+    {
+      "state": "illinois",
+      "city": "rutland"
+    },
+    {
+      "state": "illinois",
+      "city": "sadorus"
+    },
+    {
+      "state": "illinois",
+      "city": "sailor-springs"
+    },
+    {
+      "state": "illinois",
+      "city": "salem"
+    },
+    {
+      "state": "illinois",
+      "city": "sammons-point"
+    },
+    {
+      "state": "illinois",
+      "city": "san-jose"
+    },
+    {
+      "state": "illinois",
+      "city": "sandoval"
+    },
+    {
+      "state": "illinois",
+      "city": "sandwich"
+    },
+    {
+      "state": "illinois",
+      "city": "sauget"
+    },
+    {
+      "state": "illinois",
+      "city": "sauk-village"
+    },
+    {
+      "state": "illinois",
+      "city": "saunemin"
+    },
+    {
+      "state": "illinois",
+      "city": "savanna"
+    },
+    {
+      "state": "illinois",
+      "city": "savoy"
+    },
+    {
+      "state": "illinois",
+      "city": "sawyerville"
+    },
+    {
+      "state": "illinois",
+      "city": "saybrook"
+    },
+    {
+      "state": "illinois",
+      "city": "scales-mound"
+    },
+    {
+      "state": "illinois",
+      "city": "schaumburg"
+    },
+    {
+      "state": "illinois",
+      "city": "schiller-park"
+    },
+    {
+      "state": "illinois",
+      "city": "schram-city"
+    },
+    {
+      "state": "illinois",
+      "city": "sciota"
+    },
+    {
+      "state": "illinois",
+      "city": "scott-afb"
+    },
+    {
+      "state": "illinois",
+      "city": "scottville"
+    },
+    {
+      "state": "illinois",
+      "city": "seaton"
+    },
+    {
+      "state": "illinois",
+      "city": "seatonville"
+    },
+    {
+      "state": "illinois",
+      "city": "secor"
+    },
+    {
+      "state": "illinois",
+      "city": "seneca"
+    },
+    {
+      "state": "illinois",
+      "city": "sesser"
+    },
+    {
+      "state": "illinois",
+      "city": "seymour"
+    },
+    {
+      "state": "illinois",
+      "city": "shabbona"
+    },
+    {
+      "state": "illinois",
+      "city": "shannon"
+    },
+    {
+      "state": "illinois",
+      "city": "shawneetown"
+    },
+    {
+      "state": "illinois",
+      "city": "sheffield"
+    },
+    {
+      "state": "illinois",
+      "city": "shelbyville"
+    },
+    {
+      "state": "illinois",
+      "city": "sheldon"
+    },
+    {
+      "state": "illinois",
+      "city": "sheridan"
+    },
+    {
+      "state": "illinois",
+      "city": "sherman"
+    },
+    {
+      "state": "illinois",
+      "city": "sherrard"
+    },
+    {
+      "state": "illinois",
+      "city": "shiloh"
+    },
+    {
+      "state": "illinois",
+      "city": "shipman"
+    },
+    {
+      "state": "illinois",
+      "city": "shorewood"
     }
   ],
-  "generatedAt": "2026-08-05T11:12:03.326Z"
+  "generatedAt": "2026-08-06T11:12:45.882Z"
 }
