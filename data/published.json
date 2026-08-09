@@ -28799,7 +28799,407 @@
     {
       "state": "illinois",
       "city": "white-hall"
+    },
+    {
+      "state": "illinois",
+      "city": "white-heath"
+    },
+    {
+      "state": "illinois",
+      "city": "whiteash"
+    },
+    {
+      "state": "illinois",
+      "city": "williamsfield"
+    },
+    {
+      "state": "illinois",
+      "city": "williamson"
+    },
+    {
+      "state": "illinois",
+      "city": "williamsville"
+    },
+    {
+      "state": "illinois",
+      "city": "willisville"
+    },
+    {
+      "state": "illinois",
+      "city": "willow-hill"
+    },
+    {
+      "state": "illinois",
+      "city": "willow-springs"
+    },
+    {
+      "state": "illinois",
+      "city": "willowbrook"
+    },
+    {
+      "state": "illinois",
+      "city": "wilmette"
+    },
+    {
+      "state": "illinois",
+      "city": "wilmington"
+    },
+    {
+      "state": "illinois",
+      "city": "wilsonville"
+    },
+    {
+      "state": "illinois",
+      "city": "winchester"
+    },
+    {
+      "state": "illinois",
+      "city": "windsor"
+    },
+    {
+      "state": "illinois",
+      "city": "winfield"
+    },
+    {
+      "state": "illinois",
+      "city": "winnebago"
+    },
+    {
+      "state": "illinois",
+      "city": "winnetka"
+    },
+    {
+      "state": "illinois",
+      "city": "winslow"
+    },
+    {
+      "state": "illinois",
+      "city": "winthrop-harbor"
+    },
+    {
+      "state": "illinois",
+      "city": "witt"
+    },
+    {
+      "state": "illinois",
+      "city": "wonder-lake"
+    },
+    {
+      "state": "illinois",
+      "city": "wood-dale"
+    },
+    {
+      "state": "illinois",
+      "city": "wood-river"
+    },
+    {
+      "state": "illinois",
+      "city": "woodhull"
+    },
+    {
+      "state": "illinois",
+      "city": "woodland"
+    },
+    {
+      "state": "illinois",
+      "city": "woodlawn"
+    },
+    {
+      "state": "illinois",
+      "city": "woodridge"
+    },
+    {
+      "state": "illinois",
+      "city": "woodson"
+    },
+    {
+      "state": "illinois",
+      "city": "woodstock"
+    },
+    {
+      "state": "illinois",
+      "city": "worden"
+    },
+    {
+      "state": "illinois",
+      "city": "worth"
+    },
+    {
+      "state": "illinois",
+      "city": "wyanet"
+    },
+    {
+      "state": "illinois",
+      "city": "wyoming"
+    },
+    {
+      "state": "illinois",
+      "city": "xenia"
+    },
+    {
+      "state": "illinois",
+      "city": "yale"
+    },
+    {
+      "state": "illinois",
+      "city": "yates-city"
+    },
+    {
+      "state": "illinois",
+      "city": "yorkville"
+    },
+    {
+      "state": "illinois",
+      "city": "zeigler"
+    },
+    {
+      "state": "illinois",
+      "city": "zion"
+    },
+    {
+      "state": "indiana",
+      "city": "aberdeen"
+    },
+    {
+      "state": "indiana",
+      "city": "advance"
+    },
+    {
+      "state": "indiana",
+      "city": "akron"
+    },
+    {
+      "state": "indiana",
+      "city": "alamo"
+    },
+    {
+      "state": "indiana",
+      "city": "albany"
+    },
+    {
+      "state": "indiana",
+      "city": "albion"
+    },
+    {
+      "state": "indiana",
+      "city": "alexandria"
+    },
+    {
+      "state": "indiana",
+      "city": "alfordsville"
+    },
+    {
+      "state": "indiana",
+      "city": "alton"
+    },
+    {
+      "state": "indiana",
+      "city": "altona"
+    },
+    {
+      "state": "indiana",
+      "city": "ambia"
+    },
+    {
+      "state": "indiana",
+      "city": "amboy"
+    },
+    {
+      "state": "indiana",
+      "city": "americus"
+    },
+    {
+      "state": "indiana",
+      "city": "amo"
+    },
+    {
+      "state": "indiana",
+      "city": "anderson"
+    },
+    {
+      "state": "indiana",
+      "city": "andrews"
+    },
+    {
+      "state": "indiana",
+      "city": "angola"
+    },
+    {
+      "state": "indiana",
+      "city": "arcadia"
+    },
+    {
+      "state": "indiana",
+      "city": "argos"
+    },
+    {
+      "state": "indiana",
+      "city": "arlington"
+    },
+    {
+      "state": "indiana",
+      "city": "ashley"
+    },
+    {
+      "state": "indiana",
+      "city": "atlanta"
+    },
+    {
+      "state": "indiana",
+      "city": "attica"
+    },
+    {
+      "state": "indiana",
+      "city": "auburn"
+    },
+    {
+      "state": "indiana",
+      "city": "aurora"
+    },
+    {
+      "state": "indiana",
+      "city": "austin"
+    },
+    {
+      "state": "indiana",
+      "city": "avilla"
+    },
+    {
+      "state": "indiana",
+      "city": "avoca"
+    },
+    {
+      "state": "indiana",
+      "city": "avon"
+    },
+    {
+      "state": "indiana",
+      "city": "bainbridge"
+    },
+    {
+      "state": "indiana",
+      "city": "bargersville"
+    },
+    {
+      "state": "indiana",
+      "city": "bass-lake"
+    },
+    {
+      "state": "indiana",
+      "city": "batesville"
+    },
+    {
+      "state": "indiana",
+      "city": "battle-ground"
+    },
+    {
+      "state": "indiana",
+      "city": "bedford"
+    },
+    {
+      "state": "indiana",
+      "city": "beech-grove"
+    },
+    {
+      "state": "indiana",
+      "city": "berne"
+    },
+    {
+      "state": "indiana",
+      "city": "bethany"
+    },
+    {
+      "state": "indiana",
+      "city": "beverly-shores"
+    },
+    {
+      "state": "indiana",
+      "city": "bicknell"
+    },
+    {
+      "state": "indiana",
+      "city": "birdseye"
+    },
+    {
+      "state": "indiana",
+      "city": "blanford"
+    },
+    {
+      "state": "indiana",
+      "city": "bloomfield"
+    },
+    {
+      "state": "indiana",
+      "city": "bloomingdale"
+    },
+    {
+      "state": "indiana",
+      "city": "bloomington"
+    },
+    {
+      "state": "indiana",
+      "city": "blountsville"
+    },
+    {
+      "state": "indiana",
+      "city": "bluffton"
+    },
+    {
+      "state": "indiana",
+      "city": "boonville"
+    },
+    {
+      "state": "indiana",
+      "city": "borden"
+    },
+    {
+      "state": "indiana",
+      "city": "boston"
+    },
+    {
+      "state": "indiana",
+      "city": "boswell"
+    },
+    {
+      "state": "indiana",
+      "city": "bourbon"
+    },
+    {
+      "state": "indiana",
+      "city": "brazil"
+    },
+    {
+      "state": "indiana",
+      "city": "bremen"
+    },
+    {
+      "state": "indiana",
+      "city": "bright"
+    },
+    {
+      "state": "indiana",
+      "city": "bristol"
+    },
+    {
+      "state": "indiana",
+      "city": "brook"
+    },
+    {
+      "state": "indiana",
+      "city": "brooklyn"
+    },
+    {
+      "state": "indiana",
+      "city": "brooksburg"
+    },
+    {
+      "state": "indiana",
+      "city": "brookston"
+    },
+    {
+      "state": "indiana",
+      "city": "brookville"
     }
   ],
-  "generatedAt": "2026-08-08T09:28:20.792Z"
+  "generatedAt": "2026-08-09T09:29:24.742Z"
 }
