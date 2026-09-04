@@ -39199,7 +39199,407 @@
     {
       "state": "kentucky",
       "city": "greensburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "greenup"
+    },
+    {
+      "state": "kentucky",
+      "city": "greenville"
+    },
+    {
+      "state": "kentucky",
+      "city": "guthrie"
+    },
+    {
+      "state": "kentucky",
+      "city": "hanson"
+    },
+    {
+      "state": "kentucky",
+      "city": "hardin"
+    },
+    {
+      "state": "kentucky",
+      "city": "hardinsburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "hardyville"
+    },
+    {
+      "state": "kentucky",
+      "city": "harlan"
+    },
+    {
+      "state": "kentucky",
+      "city": "harrodsburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "hartford"
+    },
+    {
+      "state": "kentucky",
+      "city": "hawesville"
+    },
+    {
+      "state": "kentucky",
+      "city": "hazard"
+    },
+    {
+      "state": "kentucky",
+      "city": "hazel"
+    },
+    {
+      "state": "kentucky",
+      "city": "hazel-green"
+    },
+    {
+      "state": "kentucky",
+      "city": "hebron"
+    },
+    {
+      "state": "kentucky",
+      "city": "hebron-estates"
+    },
+    {
+      "state": "kentucky",
+      "city": "henderson"
+    },
+    {
+      "state": "kentucky",
+      "city": "hendron"
+    },
+    {
+      "state": "kentucky",
+      "city": "heritage-creek"
+    },
+    {
+      "state": "kentucky",
+      "city": "hickman"
+    },
+    {
+      "state": "kentucky",
+      "city": "hickory"
+    },
+    {
+      "state": "kentucky",
+      "city": "hickory-hill"
+    },
+    {
+      "state": "kentucky",
+      "city": "high-bridge"
+    },
+    {
+      "state": "kentucky",
+      "city": "highland-heights"
+    },
+    {
+      "state": "kentucky",
+      "city": "hills-and-dales"
+    },
+    {
+      "state": "kentucky",
+      "city": "hillview"
+    },
+    {
+      "state": "kentucky",
+      "city": "hindman"
+    },
+    {
+      "state": "kentucky",
+      "city": "hiseville"
+    },
+    {
+      "state": "kentucky",
+      "city": "hodgenville"
+    },
+    {
+      "state": "kentucky",
+      "city": "hollow-creek"
+    },
+    {
+      "state": "kentucky",
+      "city": "hollyvilla"
+    },
+    {
+      "state": "kentucky",
+      "city": "hopkinsville"
+    },
+    {
+      "state": "kentucky",
+      "city": "horse-cave"
+    },
+    {
+      "state": "kentucky",
+      "city": "houston-acres"
+    },
+    {
+      "state": "kentucky",
+      "city": "hunters-hollow"
+    },
+    {
+      "state": "kentucky",
+      "city": "hurstbourne"
+    },
+    {
+      "state": "kentucky",
+      "city": "hurstbourne-acres"
+    },
+    {
+      "state": "kentucky",
+      "city": "hustonville"
+    },
+    {
+      "state": "kentucky",
+      "city": "hyden"
+    },
+    {
+      "state": "kentucky",
+      "city": "independence"
+    },
+    {
+      "state": "kentucky",
+      "city": "indian-hills"
+    },
+    {
+      "state": "kentucky",
+      "city": "inez"
+    },
+    {
+      "state": "kentucky",
+      "city": "ironville"
+    },
+    {
+      "state": "kentucky",
+      "city": "irvine"
+    },
+    {
+      "state": "kentucky",
+      "city": "irvington"
+    },
+    {
+      "state": "kentucky",
+      "city": "island"
+    },
+    {
+      "state": "kentucky",
+      "city": "jackson"
+    },
+    {
+      "state": "kentucky",
+      "city": "jamestown"
+    },
+    {
+      "state": "kentucky",
+      "city": "jeff"
+    },
+    {
+      "state": "kentucky",
+      "city": "jeffersontown"
+    },
+    {
+      "state": "kentucky",
+      "city": "jeffersonville"
+    },
+    {
+      "state": "kentucky",
+      "city": "jenkins"
+    },
+    {
+      "state": "kentucky",
+      "city": "junction-city"
+    },
+    {
+      "state": "kentucky",
+      "city": "keene"
+    },
+    {
+      "state": "kentucky",
+      "city": "kenton-vale"
+    },
+    {
+      "state": "kentucky",
+      "city": "kenvir"
+    },
+    {
+      "state": "kentucky",
+      "city": "kevil"
+    },
+    {
+      "state": "kentucky",
+      "city": "kingsley"
+    },
+    {
+      "state": "kentucky",
+      "city": "kuttawa"
+    },
+    {
+      "state": "kentucky",
+      "city": "la-center"
+    },
+    {
+      "state": "kentucky",
+      "city": "la-grange"
+    },
+    {
+      "state": "kentucky",
+      "city": "lafayette"
+    },
+    {
+      "state": "kentucky",
+      "city": "lakeside-park"
+    },
+    {
+      "state": "kentucky",
+      "city": "lakeview-heights"
+    },
+    {
+      "state": "kentucky",
+      "city": "lancaster"
+    },
+    {
+      "state": "kentucky",
+      "city": "langdon-place"
+    },
+    {
+      "state": "kentucky",
+      "city": "lawrenceburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "lebanon"
+    },
+    {
+      "state": "kentucky",
+      "city": "lebanon-junction"
+    },
+    {
+      "state": "kentucky",
+      "city": "ledbetter"
+    },
+    {
+      "state": "kentucky",
+      "city": "leitchfield"
+    },
+    {
+      "state": "kentucky",
+      "city": "lewisburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "lewisport"
+    },
+    {
+      "state": "kentucky",
+      "city": "lexington"
+    },
+    {
+      "state": "kentucky",
+      "city": "liberty"
+    },
+    {
+      "state": "kentucky",
+      "city": "lincolnshire"
+    },
+    {
+      "state": "kentucky",
+      "city": "livermore"
+    },
+    {
+      "state": "kentucky",
+      "city": "livingston"
+    },
+    {
+      "state": "kentucky",
+      "city": "london"
+    },
+    {
+      "state": "kentucky",
+      "city": "loretto"
+    },
+    {
+      "state": "kentucky",
+      "city": "louisa"
+    },
+    {
+      "state": "kentucky",
+      "city": "louisville"
+    },
+    {
+      "state": "kentucky",
+      "city": "lovelaceville"
+    },
+    {
+      "state": "kentucky",
+      "city": "lowes"
+    },
+    {
+      "state": "kentucky",
+      "city": "loyall"
+    },
+    {
+      "state": "kentucky",
+      "city": "ludlow"
+    },
+    {
+      "state": "kentucky",
+      "city": "lynch"
+    },
+    {
+      "state": "kentucky",
+      "city": "lyndon"
+    },
+    {
+      "state": "kentucky",
+      "city": "lynnview"
+    },
+    {
+      "state": "kentucky",
+      "city": "maceo"
+    },
+    {
+      "state": "kentucky",
+      "city": "mackville"
+    },
+    {
+      "state": "kentucky",
+      "city": "madisonville"
+    },
+    {
+      "state": "kentucky",
+      "city": "magnolia"
+    },
+    {
+      "state": "kentucky",
+      "city": "manchester"
+    },
+    {
+      "state": "kentucky",
+      "city": "manitou"
+    },
+    {
+      "state": "kentucky",
+      "city": "manor-creek"
+    },
+    {
+      "state": "kentucky",
+      "city": "marion"
+    },
+    {
+      "state": "kentucky",
+      "city": "marrowbone"
+    },
+    {
+      "state": "kentucky",
+      "city": "martin"
+    },
+    {
+      "state": "kentucky",
+      "city": "maryhill-estates"
     }
   ],
-  "generatedAt": "2026-09-03T13:07:16.299Z"
+  "generatedAt": "2026-09-04T13:00:59.727Z"
 }
