@@ -40399,7 +40399,407 @@
     {
       "state": "kentucky",
       "city": "westport"
+    },
+    {
+      "state": "kentucky",
+      "city": "westwood"
+    },
+    {
+      "state": "kentucky",
+      "city": "wheatcroft"
+    },
+    {
+      "state": "kentucky",
+      "city": "wheelwright"
+    },
+    {
+      "state": "kentucky",
+      "city": "white-plains"
+    },
+    {
+      "state": "kentucky",
+      "city": "whitesburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "whitesville"
+    },
+    {
+      "state": "kentucky",
+      "city": "whitley-city"
+    },
+    {
+      "state": "kentucky",
+      "city": "wickliffe"
+    },
+    {
+      "state": "kentucky",
+      "city": "wilder"
+    },
+    {
+      "state": "kentucky",
+      "city": "wildwood"
+    },
+    {
+      "state": "kentucky",
+      "city": "williamsburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "williamstown"
+    },
+    {
+      "state": "kentucky",
+      "city": "willisburg"
+    },
+    {
+      "state": "kentucky",
+      "city": "wilmore"
+    },
+    {
+      "state": "kentucky",
+      "city": "winchester"
+    },
+    {
+      "state": "kentucky",
+      "city": "windy-hills"
+    },
+    {
+      "state": "kentucky",
+      "city": "wingo"
+    },
+    {
+      "state": "kentucky",
+      "city": "woodburn"
+    },
+    {
+      "state": "kentucky",
+      "city": "woodbury"
+    },
+    {
+      "state": "kentucky",
+      "city": "woodland-hills"
+    },
+    {
+      "state": "kentucky",
+      "city": "woodlawn"
+    },
+    {
+      "state": "kentucky",
+      "city": "woodlawn-park"
+    },
+    {
+      "state": "kentucky",
+      "city": "worthington"
+    },
+    {
+      "state": "kentucky",
+      "city": "worthington-hills"
+    },
+    {
+      "state": "kentucky",
+      "city": "worthville"
+    },
+    {
+      "state": "kentucky",
+      "city": "wurtland"
+    },
+    {
+      "state": "louisiana",
+      "city": "abbeville"
+    },
+    {
+      "state": "louisiana",
+      "city": "abita-springs"
+    },
+    {
+      "state": "louisiana",
+      "city": "addis"
+    },
+    {
+      "state": "louisiana",
+      "city": "albany"
+    },
+    {
+      "state": "louisiana",
+      "city": "alexandria"
+    },
+    {
+      "state": "louisiana",
+      "city": "ama"
+    },
+    {
+      "state": "louisiana",
+      "city": "amelia"
+    },
+    {
+      "state": "louisiana",
+      "city": "amite-city"
+    },
+    {
+      "state": "louisiana",
+      "city": "anacoco"
+    },
+    {
+      "state": "louisiana",
+      "city": "angie"
+    },
+    {
+      "state": "louisiana",
+      "city": "arabi"
+    },
+    {
+      "state": "louisiana",
+      "city": "arcadia"
+    },
+    {
+      "state": "louisiana",
+      "city": "arnaudville"
+    },
+    {
+      "state": "louisiana",
+      "city": "ashland"
+    },
+    {
+      "state": "louisiana",
+      "city": "athens"
+    },
+    {
+      "state": "louisiana",
+      "city": "atlanta"
+    },
+    {
+      "state": "louisiana",
+      "city": "avondale"
+    },
+    {
+      "state": "louisiana",
+      "city": "baker"
+    },
+    {
+      "state": "louisiana",
+      "city": "baldwin"
+    },
+    {
+      "state": "louisiana",
+      "city": "ball"
+    },
+    {
+      "state": "louisiana",
+      "city": "banks-springs"
+    },
+    {
+      "state": "louisiana",
+      "city": "barataria"
+    },
+    {
+      "state": "louisiana",
+      "city": "basile"
+    },
+    {
+      "state": "louisiana",
+      "city": "baskin"
+    },
+    {
+      "state": "louisiana",
+      "city": "bastrop"
+    },
+    {
+      "state": "louisiana",
+      "city": "baton-rouge"
+    },
+    {
+      "state": "louisiana",
+      "city": "bawcomville"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-blue"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-cane"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-corne"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-country-club"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-gauche"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-goula"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-l-ourse"
+    },
+    {
+      "state": "louisiana",
+      "city": "bayou-vista"
+    },
+    {
+      "state": "louisiana",
+      "city": "belcher"
+    },
+    {
+      "state": "louisiana",
+      "city": "belle-chasse"
+    },
+    {
+      "state": "louisiana",
+      "city": "belle-rose"
+    },
+    {
+      "state": "louisiana",
+      "city": "belmont"
+    },
+    {
+      "state": "louisiana",
+      "city": "benton"
+    },
+    {
+      "state": "louisiana",
+      "city": "bernice"
+    },
+    {
+      "state": "louisiana",
+      "city": "berwick"
+    },
+    {
+      "state": "louisiana",
+      "city": "bienville"
+    },
+    {
+      "state": "louisiana",
+      "city": "blanchard"
+    },
+    {
+      "state": "louisiana",
+      "city": "bogalusa"
+    },
+    {
+      "state": "louisiana",
+      "city": "bonita"
+    },
+    {
+      "state": "louisiana",
+      "city": "boothville"
+    },
+    {
+      "state": "louisiana",
+      "city": "bordelonville"
+    },
+    {
+      "state": "louisiana",
+      "city": "bossier-city"
+    },
+    {
+      "state": "louisiana",
+      "city": "bourg"
+    },
+    {
+      "state": "louisiana",
+      "city": "boutte"
+    },
+    {
+      "state": "louisiana",
+      "city": "boyce"
+    },
+    {
+      "state": "louisiana",
+      "city": "branch"
+    },
+    {
+      "state": "louisiana",
+      "city": "breaux-bridge"
+    },
+    {
+      "state": "louisiana",
+      "city": "bridge-city"
+    },
+    {
+      "state": "louisiana",
+      "city": "broussard"
+    },
+    {
+      "state": "louisiana",
+      "city": "brownfields"
+    },
+    {
+      "state": "louisiana",
+      "city": "brownsville"
+    },
+    {
+      "state": "louisiana",
+      "city": "brusly"
+    },
+    {
+      "state": "louisiana",
+      "city": "bryceland"
+    },
+    {
+      "state": "louisiana",
+      "city": "bunkie"
+    },
+    {
+      "state": "louisiana",
+      "city": "buras"
+    },
+    {
+      "state": "louisiana",
+      "city": "cade"
+    },
+    {
+      "state": "louisiana",
+      "city": "calhoun"
+    },
+    {
+      "state": "louisiana",
+      "city": "calvin"
+    },
+    {
+      "state": "louisiana",
+      "city": "cameron"
+    },
+    {
+      "state": "louisiana",
+      "city": "campti"
+    },
+    {
+      "state": "louisiana",
+      "city": "cankton"
+    },
+    {
+      "state": "louisiana",
+      "city": "carencro"
+    },
+    {
+      "state": "louisiana",
+      "city": "carlyss"
+    },
+    {
+      "state": "louisiana",
+      "city": "castor"
+    },
+    {
+      "state": "louisiana",
+      "city": "catahoula"
+    },
+    {
+      "state": "louisiana",
+      "city": "cecilia"
+    },
+    {
+      "state": "louisiana",
+      "city": "center-point"
     }
   ],
-  "generatedAt": "2026-09-06T12:28:11.781Z"
+  "generatedAt": "2026-09-07T14:36:17.902Z"
 }
