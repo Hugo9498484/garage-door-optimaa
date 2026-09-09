@@ -41199,7 +41199,407 @@
     {
       "state": "louisiana",
       "city": "gramercy"
+    },
+    {
+      "state": "louisiana",
+      "city": "grand-cane"
+    },
+    {
+      "state": "louisiana",
+      "city": "grand-coteau"
+    },
+    {
+      "state": "louisiana",
+      "city": "grand-isle"
+    },
+    {
+      "state": "louisiana",
+      "city": "grand-point"
+    },
+    {
+      "state": "louisiana",
+      "city": "gray"
+    },
+    {
+      "state": "louisiana",
+      "city": "grayson"
+    },
+    {
+      "state": "louisiana",
+      "city": "greensburg"
+    },
+    {
+      "state": "louisiana",
+      "city": "greenwood"
+    },
+    {
+      "state": "louisiana",
+      "city": "gretna"
+    },
+    {
+      "state": "louisiana",
+      "city": "grosse-tete"
+    },
+    {
+      "state": "louisiana",
+      "city": "gueydan"
+    },
+    {
+      "state": "louisiana",
+      "city": "hackberry"
+    },
+    {
+      "state": "louisiana",
+      "city": "hahnville"
+    },
+    {
+      "state": "louisiana",
+      "city": "hall-summit"
+    },
+    {
+      "state": "louisiana",
+      "city": "hammond"
+    },
+    {
+      "state": "louisiana",
+      "city": "harahan"
+    },
+    {
+      "state": "louisiana",
+      "city": "harrisonburg"
+    },
+    {
+      "state": "louisiana",
+      "city": "harvey"
+    },
+    {
+      "state": "louisiana",
+      "city": "haughton"
+    },
+    {
+      "state": "louisiana",
+      "city": "hayes"
+    },
+    {
+      "state": "louisiana",
+      "city": "haynesville"
+    },
+    {
+      "state": "louisiana",
+      "city": "heflin"
+    },
+    {
+      "state": "louisiana",
+      "city": "henderson"
+    },
+    {
+      "state": "louisiana",
+      "city": "hessmer"
+    },
+    {
+      "state": "louisiana",
+      "city": "hester"
+    },
+    {
+      "state": "louisiana",
+      "city": "hodge"
+    },
+    {
+      "state": "louisiana",
+      "city": "homer"
+    },
+    {
+      "state": "louisiana",
+      "city": "hornbeck"
+    },
+    {
+      "state": "louisiana",
+      "city": "hosston"
+    },
+    {
+      "state": "louisiana",
+      "city": "houma"
+    },
+    {
+      "state": "louisiana",
+      "city": "ida"
+    },
+    {
+      "state": "louisiana",
+      "city": "independence"
+    },
+    {
+      "state": "louisiana",
+      "city": "inniswold"
+    },
+    {
+      "state": "louisiana",
+      "city": "iota"
+    },
+    {
+      "state": "louisiana",
+      "city": "iowa"
+    },
+    {
+      "state": "louisiana",
+      "city": "jackson"
+    },
+    {
+      "state": "louisiana",
+      "city": "jamestown"
+    },
+    {
+      "state": "louisiana",
+      "city": "jean-lafitte"
+    },
+    {
+      "state": "louisiana",
+      "city": "jeanerette"
+    },
+    {
+      "state": "louisiana",
+      "city": "jefferson"
+    },
+    {
+      "state": "louisiana",
+      "city": "jena"
+    },
+    {
+      "state": "louisiana",
+      "city": "jennings"
+    },
+    {
+      "state": "louisiana",
+      "city": "jonesboro"
+    },
+    {
+      "state": "louisiana",
+      "city": "jonesville"
+    },
+    {
+      "state": "louisiana",
+      "city": "jordan-hill"
+    },
+    {
+      "state": "louisiana",
+      "city": "joyce"
+    },
+    {
+      "state": "louisiana",
+      "city": "junction-city"
+    },
+    {
+      "state": "louisiana",
+      "city": "kaplan"
+    },
+    {
+      "state": "louisiana",
+      "city": "keachi"
+    },
+    {
+      "state": "louisiana",
+      "city": "kenner"
+    },
+    {
+      "state": "louisiana",
+      "city": "kentwood"
+    },
+    {
+      "state": "louisiana",
+      "city": "kilbourne"
+    },
+    {
+      "state": "louisiana",
+      "city": "killian"
+    },
+    {
+      "state": "louisiana",
+      "city": "killona"
+    },
+    {
+      "state": "louisiana",
+      "city": "kinder"
+    },
+    {
+      "state": "louisiana",
+      "city": "kraemer"
+    },
+    {
+      "state": "louisiana",
+      "city": "krotz-springs"
+    },
+    {
+      "state": "louisiana",
+      "city": "labadieville"
+    },
+    {
+      "state": "louisiana",
+      "city": "lacassine"
+    },
+    {
+      "state": "louisiana",
+      "city": "lacombe"
+    },
+    {
+      "state": "louisiana",
+      "city": "lafayette"
+    },
+    {
+      "state": "louisiana",
+      "city": "lafitte"
+    },
+    {
+      "state": "louisiana",
+      "city": "lafourche-crossing"
+    },
+    {
+      "state": "louisiana",
+      "city": "lake-arthur"
+    },
+    {
+      "state": "louisiana",
+      "city": "lake-charles"
+    },
+    {
+      "state": "louisiana",
+      "city": "lake-providence"
+    },
+    {
+      "state": "louisiana",
+      "city": "lakeshore"
+    },
+    {
+      "state": "louisiana",
+      "city": "lakeview"
+    },
+    {
+      "state": "louisiana",
+      "city": "laplace"
+    },
+    {
+      "state": "louisiana",
+      "city": "larose"
+    },
+    {
+      "state": "louisiana",
+      "city": "lawtell"
+    },
+    {
+      "state": "louisiana",
+      "city": "lecompte"
+    },
+    {
+      "state": "louisiana",
+      "city": "leesville"
+    },
+    {
+      "state": "louisiana",
+      "city": "lemannville"
+    },
+    {
+      "state": "louisiana",
+      "city": "leonville"
+    },
+    {
+      "state": "louisiana",
+      "city": "lillie"
+    },
+    {
+      "state": "louisiana",
+      "city": "lisbon"
+    },
+    {
+      "state": "louisiana",
+      "city": "livingston"
+    },
+    {
+      "state": "louisiana",
+      "city": "livonia"
+    },
+    {
+      "state": "louisiana",
+      "city": "lockport"
+    },
+    {
+      "state": "louisiana",
+      "city": "lockport-heights"
+    },
+    {
+      "state": "louisiana",
+      "city": "logansport"
+    },
+    {
+      "state": "louisiana",
+      "city": "longstreet"
+    },
+    {
+      "state": "louisiana",
+      "city": "longville"
+    },
+    {
+      "state": "louisiana",
+      "city": "loreauville"
+    },
+    {
+      "state": "louisiana",
+      "city": "lucky"
+    },
+    {
+      "state": "louisiana",
+      "city": "luling"
+    },
+    {
+      "state": "louisiana",
+      "city": "lutcher"
+    },
+    {
+      "state": "louisiana",
+      "city": "lydia"
+    },
+    {
+      "state": "louisiana",
+      "city": "madisonville"
+    },
+    {
+      "state": "louisiana",
+      "city": "mamou"
+    },
+    {
+      "state": "louisiana",
+      "city": "mandeville"
+    },
+    {
+      "state": "louisiana",
+      "city": "mangham"
+    },
+    {
+      "state": "louisiana",
+      "city": "mansfield"
+    },
+    {
+      "state": "louisiana",
+      "city": "mansura"
+    },
+    {
+      "state": "louisiana",
+      "city": "many"
+    },
+    {
+      "state": "louisiana",
+      "city": "maringouin"
+    },
+    {
+      "state": "louisiana",
+      "city": "marion"
+    },
+    {
+      "state": "louisiana",
+      "city": "marksville"
+    },
+    {
+      "state": "louisiana",
+      "city": "marrero"
     }
   ],
-  "generatedAt": "2026-09-08T13:10:21.759Z"
+  "generatedAt": "2026-09-09T13:15:43.139Z"
 }
