@@ -44799,7 +44799,407 @@
     {
       "state": "massachusetts",
       "city": "lowell"
+    },
+    {
+      "state": "massachusetts",
+      "city": "lynn"
+    },
+    {
+      "state": "massachusetts",
+      "city": "madaket"
+    },
+    {
+      "state": "massachusetts",
+      "city": "malden"
+    },
+    {
+      "state": "massachusetts",
+      "city": "mansfield-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "marion-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "marlborough"
+    },
+    {
+      "state": "massachusetts",
+      "city": "marshfield-hills"
+    },
+    {
+      "state": "massachusetts",
+      "city": "mashpee-neck"
+    },
+    {
+      "state": "massachusetts",
+      "city": "mattapoisett-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "medford"
+    },
+    {
+      "state": "massachusetts",
+      "city": "melrose"
+    },
+    {
+      "state": "massachusetts",
+      "city": "methuen-town"
+    },
+    {
+      "state": "massachusetts",
+      "city": "middleborough-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "millers-falls"
+    },
+    {
+      "state": "massachusetts",
+      "city": "millis-clicquot"
+    },
+    {
+      "state": "massachusetts",
+      "city": "monomoscoy-island"
+    },
+    {
+      "state": "massachusetts",
+      "city": "monson-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "monument-beach"
+    },
+    {
+      "state": "massachusetts",
+      "city": "new-bedford"
+    },
+    {
+      "state": "massachusetts",
+      "city": "new-seabury"
+    },
+    {
+      "state": "massachusetts",
+      "city": "newburyport"
+    },
+    {
+      "state": "massachusetts",
+      "city": "newton"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-adams"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-attleborough"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-eastham"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-falmouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-lakeville"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-pembroke"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-plymouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-scituate"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-seekonk"
+    },
+    {
+      "state": "massachusetts",
+      "city": "north-westport"
+    },
+    {
+      "state": "massachusetts",
+      "city": "northampton"
+    },
+    {
+      "state": "massachusetts",
+      "city": "northwest-harwich"
+    },
+    {
+      "state": "massachusetts",
+      "city": "norton-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "ocean-bluff-brant-rock"
+    },
+    {
+      "state": "massachusetts",
+      "city": "ocean-grove"
+    },
+    {
+      "state": "massachusetts",
+      "city": "onset"
+    },
+    {
+      "state": "massachusetts",
+      "city": "palmer"
+    },
+    {
+      "state": "massachusetts",
+      "city": "peabody"
+    },
+    {
+      "state": "massachusetts",
+      "city": "pinehurst"
+    },
+    {
+      "state": "massachusetts",
+      "city": "pittsfield"
+    },
+    {
+      "state": "massachusetts",
+      "city": "pocasset"
+    },
+    {
+      "state": "massachusetts",
+      "city": "popponesset"
+    },
+    {
+      "state": "massachusetts",
+      "city": "popponesset-island"
+    },
+    {
+      "state": "massachusetts",
+      "city": "quincy"
+    },
+    {
+      "state": "massachusetts",
+      "city": "randolph"
+    },
+    {
+      "state": "massachusetts",
+      "city": "raynham-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "revere"
+    },
+    {
+      "state": "massachusetts",
+      "city": "sagamore"
+    },
+    {
+      "state": "massachusetts",
+      "city": "salem"
+    },
+    {
+      "state": "massachusetts",
+      "city": "seabrook"
+    },
+    {
+      "state": "massachusetts",
+      "city": "seconsett-island"
+    },
+    {
+      "state": "massachusetts",
+      "city": "shelburne-falls"
+    },
+    {
+      "state": "massachusetts",
+      "city": "siasconset"
+    },
+    {
+      "state": "massachusetts",
+      "city": "smith-mills"
+    },
+    {
+      "state": "massachusetts",
+      "city": "somerville"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-ashburnham"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-deerfield"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-dennis"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-duxbury"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-lancaster"
+    },
+    {
+      "state": "massachusetts",
+      "city": "south-yarmouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "southbridge"
+    },
+    {
+      "state": "massachusetts",
+      "city": "springfield"
+    },
+    {
+      "state": "massachusetts",
+      "city": "taunton"
+    },
+    {
+      "state": "massachusetts",
+      "city": "teaticket"
+    },
+    {
+      "state": "massachusetts",
+      "city": "the-pinehills"
+    },
+    {
+      "state": "massachusetts",
+      "city": "turners-falls"
+    },
+    {
+      "state": "massachusetts",
+      "city": "vineyard-haven"
+    },
+    {
+      "state": "massachusetts",
+      "city": "waltham"
+    },
+    {
+      "state": "massachusetts",
+      "city": "wareham-center"
+    },
+    {
+      "state": "massachusetts",
+      "city": "watertown-town"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-chatham"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-concord"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-dennis"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-falmouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-springfield"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-wareham"
+    },
+    {
+      "state": "massachusetts",
+      "city": "west-yarmouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "westfield"
+    },
+    {
+      "state": "massachusetts",
+      "city": "weweantic"
+    },
+    {
+      "state": "massachusetts",
+      "city": "weymouth"
+    },
+    {
+      "state": "massachusetts",
+      "city": "white-island-shores"
+    },
+    {
+      "state": "massachusetts",
+      "city": "whitinsville"
+    },
+    {
+      "state": "massachusetts",
+      "city": "winthrop"
+    },
+    {
+      "state": "massachusetts",
+      "city": "woburn"
+    },
+    {
+      "state": "massachusetts",
+      "city": "woods-hole"
+    },
+    {
+      "state": "massachusetts",
+      "city": "worcester"
+    },
+    {
+      "state": "massachusetts",
+      "city": "yarmouth-port"
+    },
+    {
+      "state": "michigan",
+      "city": "addison"
+    },
+    {
+      "state": "michigan",
+      "city": "adrian"
+    },
+    {
+      "state": "michigan",
+      "city": "advance"
+    },
+    {
+      "state": "michigan",
+      "city": "ahmeek"
+    },
+    {
+      "state": "michigan",
+      "city": "akron"
+    },
+    {
+      "state": "michigan",
+      "city": "alanson"
+    },
+    {
+      "state": "michigan",
+      "city": "alba"
+    },
+    {
+      "state": "michigan",
+      "city": "albion"
+    },
+    {
+      "state": "michigan",
+      "city": "alden"
+    },
+    {
+      "state": "michigan",
+      "city": "algonac"
     }
   ],
-  "generatedAt": "2026-09-17T13:57:12.270Z"
+  "generatedAt": "2026-09-18T13:15:47.352Z"
 }
