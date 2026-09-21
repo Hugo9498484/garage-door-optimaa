@@ -45999,7 +45999,407 @@
     {
       "state": "michigan",
       "city": "fair-plain"
+    },
+    {
+      "state": "michigan",
+      "city": "fairgrove"
+    },
+    {
+      "state": "michigan",
+      "city": "farmington"
+    },
+    {
+      "state": "michigan",
+      "city": "farmington-hills"
+    },
+    {
+      "state": "michigan",
+      "city": "farwell"
+    },
+    {
+      "state": "michigan",
+      "city": "fennville"
+    },
+    {
+      "state": "michigan",
+      "city": "fenton"
+    },
+    {
+      "state": "michigan",
+      "city": "ferndale"
+    },
+    {
+      "state": "michigan",
+      "city": "ferrysburg"
+    },
+    {
+      "state": "michigan",
+      "city": "fife-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "filer-city"
+    },
+    {
+      "state": "michigan",
+      "city": "flat-rock"
+    },
+    {
+      "state": "michigan",
+      "city": "flint"
+    },
+    {
+      "state": "michigan",
+      "city": "flushing"
+    },
+    {
+      "state": "michigan",
+      "city": "forest-hills"
+    },
+    {
+      "state": "michigan",
+      "city": "forestville"
+    },
+    {
+      "state": "michigan",
+      "city": "fostoria"
+    },
+    {
+      "state": "michigan",
+      "city": "fountain"
+    },
+    {
+      "state": "michigan",
+      "city": "fowler"
+    },
+    {
+      "state": "michigan",
+      "city": "fowlerville"
+    },
+    {
+      "state": "michigan",
+      "city": "frankenmuth"
+    },
+    {
+      "state": "michigan",
+      "city": "frankfort"
+    },
+    {
+      "state": "michigan",
+      "city": "franklin"
+    },
+    {
+      "state": "michigan",
+      "city": "fraser"
+    },
+    {
+      "state": "michigan",
+      "city": "free-soil"
+    },
+    {
+      "state": "michigan",
+      "city": "freeland"
+    },
+    {
+      "state": "michigan",
+      "city": "freeport"
+    },
+    {
+      "state": "michigan",
+      "city": "fremont"
+    },
+    {
+      "state": "michigan",
+      "city": "fruitport"
+    },
+    {
+      "state": "michigan",
+      "city": "gaastra"
+    },
+    {
+      "state": "michigan",
+      "city": "gagetown"
+    },
+    {
+      "state": "michigan",
+      "city": "gaines"
+    },
+    {
+      "state": "michigan",
+      "city": "galesburg"
+    },
+    {
+      "state": "michigan",
+      "city": "galien"
+    },
+    {
+      "state": "michigan",
+      "city": "garden"
+    },
+    {
+      "state": "michigan",
+      "city": "garden-city"
+    },
+    {
+      "state": "michigan",
+      "city": "gaylord"
+    },
+    {
+      "state": "michigan",
+      "city": "gibraltar"
+    },
+    {
+      "state": "michigan",
+      "city": "gladstone"
+    },
+    {
+      "state": "michigan",
+      "city": "gladwin"
+    },
+    {
+      "state": "michigan",
+      "city": "glen-arbor"
+    },
+    {
+      "state": "michigan",
+      "city": "gobles"
+    },
+    {
+      "state": "michigan",
+      "city": "goodrich"
+    },
+    {
+      "state": "michigan",
+      "city": "grand-beach"
+    },
+    {
+      "state": "michigan",
+      "city": "grand-blanc"
+    },
+    {
+      "state": "michigan",
+      "city": "grand-haven"
+    },
+    {
+      "state": "michigan",
+      "city": "grand-ledge"
+    },
+    {
+      "state": "michigan",
+      "city": "grand-rapids"
+    },
+    {
+      "state": "michigan",
+      "city": "grandville"
+    },
+    {
+      "state": "michigan",
+      "city": "grant"
+    },
+    {
+      "state": "michigan",
+      "city": "grass-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "grawn"
+    },
+    {
+      "state": "michigan",
+      "city": "grayling"
+    },
+    {
+      "state": "michigan",
+      "city": "greenville"
+    },
+    {
+      "state": "michigan",
+      "city": "greilickville"
+    },
+    {
+      "state": "michigan",
+      "city": "grosse-pointe"
+    },
+    {
+      "state": "michigan",
+      "city": "grosse-pointe-farms"
+    },
+    {
+      "state": "michigan",
+      "city": "grosse-pointe-park"
+    },
+    {
+      "state": "michigan",
+      "city": "grosse-pointe-woods"
+    },
+    {
+      "state": "michigan",
+      "city": "gwinn"
+    },
+    {
+      "state": "michigan",
+      "city": "hamtramck"
+    },
+    {
+      "state": "michigan",
+      "city": "hancock"
+    },
+    {
+      "state": "michigan",
+      "city": "hanover"
+    },
+    {
+      "state": "michigan",
+      "city": "harbor-beach"
+    },
+    {
+      "state": "michigan",
+      "city": "harbor-springs"
+    },
+    {
+      "state": "michigan",
+      "city": "hardwood-acres"
+    },
+    {
+      "state": "michigan",
+      "city": "haring"
+    },
+    {
+      "state": "michigan",
+      "city": "harper-woods"
+    },
+    {
+      "state": "michigan",
+      "city": "harrietta"
+    },
+    {
+      "state": "michigan",
+      "city": "harrison"
+    },
+    {
+      "state": "michigan",
+      "city": "harrisville"
+    },
+    {
+      "state": "michigan",
+      "city": "hart"
+    },
+    {
+      "state": "michigan",
+      "city": "hartford"
+    },
+    {
+      "state": "michigan",
+      "city": "harvey"
+    },
+    {
+      "state": "michigan",
+      "city": "haslett"
+    },
+    {
+      "state": "michigan",
+      "city": "hastings"
+    },
+    {
+      "state": "michigan",
+      "city": "hazel-park"
+    },
+    {
+      "state": "michigan",
+      "city": "hemlock"
+    },
+    {
+      "state": "michigan",
+      "city": "henderson"
+    },
+    {
+      "state": "michigan",
+      "city": "hersey"
+    },
+    {
+      "state": "michigan",
+      "city": "hesperia"
+    },
+    {
+      "state": "michigan",
+      "city": "hickory-corners"
+    },
+    {
+      "state": "michigan",
+      "city": "highland-park"
+    },
+    {
+      "state": "michigan",
+      "city": "hillman"
+    },
+    {
+      "state": "michigan",
+      "city": "hillsdale"
+    },
+    {
+      "state": "michigan",
+      "city": "holland"
+    },
+    {
+      "state": "michigan",
+      "city": "holly"
+    },
+    {
+      "state": "michigan",
+      "city": "holt"
+    },
+    {
+      "state": "michigan",
+      "city": "homer"
+    },
+    {
+      "state": "michigan",
+      "city": "honor"
+    },
+    {
+      "state": "michigan",
+      "city": "hopkins"
+    },
+    {
+      "state": "michigan",
+      "city": "horton-bay"
+    },
+    {
+      "state": "michigan",
+      "city": "houghton"
+    },
+    {
+      "state": "michigan",
+      "city": "houghton-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "howard-city"
+    },
+    {
+      "state": "michigan",
+      "city": "howell"
+    },
+    {
+      "state": "michigan",
+      "city": "hubbard-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "hubbardston"
+    },
+    {
+      "state": "michigan",
+      "city": "hubbell"
+    },
+    {
+      "state": "michigan",
+      "city": "hudson"
+    },
+    {
+      "state": "michigan",
+      "city": "hudsonville"
     }
   ],
-  "generatedAt": "2026-09-20T13:19:51.678Z"
+  "generatedAt": "2026-09-21T15:29:20.275Z"
 }
