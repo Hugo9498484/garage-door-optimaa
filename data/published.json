@@ -47199,7 +47199,407 @@
     {
       "state": "michigan",
       "city": "pigeon"
+    },
+    {
+      "state": "michigan",
+      "city": "pilgrim"
+    },
+    {
+      "state": "michigan",
+      "city": "pinckney"
+    },
+    {
+      "state": "michigan",
+      "city": "pinconning"
+    },
+    {
+      "state": "michigan",
+      "city": "plainwell"
+    },
+    {
+      "state": "michigan",
+      "city": "pleasant-ridge"
+    },
+    {
+      "state": "michigan",
+      "city": "plymouth"
+    },
+    {
+      "state": "michigan",
+      "city": "ponshewaing"
+    },
+    {
+      "state": "michigan",
+      "city": "pontiac"
+    },
+    {
+      "state": "michigan",
+      "city": "port-austin"
+    },
+    {
+      "state": "michigan",
+      "city": "port-hope"
+    },
+    {
+      "state": "michigan",
+      "city": "port-huron"
+    },
+    {
+      "state": "michigan",
+      "city": "port-sanilac"
+    },
+    {
+      "state": "michigan",
+      "city": "portage"
+    },
+    {
+      "state": "michigan",
+      "city": "portland"
+    },
+    {
+      "state": "michigan",
+      "city": "posen"
+    },
+    {
+      "state": "michigan",
+      "city": "potterville"
+    },
+    {
+      "state": "michigan",
+      "city": "powers"
+    },
+    {
+      "state": "michigan",
+      "city": "prescott"
+    },
+    {
+      "state": "michigan",
+      "city": "presque-isle-harbor"
+    },
+    {
+      "state": "michigan",
+      "city": "prudenville"
+    },
+    {
+      "state": "michigan",
+      "city": "quincy"
+    },
+    {
+      "state": "michigan",
+      "city": "quinnesec"
+    },
+    {
+      "state": "michigan",
+      "city": "rapid-city"
+    },
+    {
+      "state": "michigan",
+      "city": "ravenna"
+    },
+    {
+      "state": "michigan",
+      "city": "reading"
+    },
+    {
+      "state": "michigan",
+      "city": "reed-city"
+    },
+    {
+      "state": "michigan",
+      "city": "reese"
+    },
+    {
+      "state": "michigan",
+      "city": "republic"
+    },
+    {
+      "state": "michigan",
+      "city": "richland"
+    },
+    {
+      "state": "michigan",
+      "city": "richmond"
+    },
+    {
+      "state": "michigan",
+      "city": "river-rouge"
+    },
+    {
+      "state": "michigan",
+      "city": "riverview"
+    },
+    {
+      "state": "michigan",
+      "city": "robin-glen-indiantown"
+    },
+    {
+      "state": "michigan",
+      "city": "rochester"
+    },
+    {
+      "state": "michigan",
+      "city": "rochester-hills"
+    },
+    {
+      "state": "michigan",
+      "city": "rockford"
+    },
+    {
+      "state": "michigan",
+      "city": "rockwood"
+    },
+    {
+      "state": "michigan",
+      "city": "rogers-city"
+    },
+    {
+      "state": "michigan",
+      "city": "romeo"
+    },
+    {
+      "state": "michigan",
+      "city": "romulus"
+    },
+    {
+      "state": "michigan",
+      "city": "roosevelt-park"
+    },
+    {
+      "state": "michigan",
+      "city": "roscommon"
+    },
+    {
+      "state": "michigan",
+      "city": "rose-city"
+    },
+    {
+      "state": "michigan",
+      "city": "rosebush"
+    },
+    {
+      "state": "michigan",
+      "city": "roseville"
+    },
+    {
+      "state": "michigan",
+      "city": "rothbury"
+    },
+    {
+      "state": "michigan",
+      "city": "royal-oak"
+    },
+    {
+      "state": "michigan",
+      "city": "saginaw"
+    },
+    {
+      "state": "michigan",
+      "city": "saline"
+    },
+    {
+      "state": "michigan",
+      "city": "sand-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "sandusky"
+    },
+    {
+      "state": "michigan",
+      "city": "sanford"
+    },
+    {
+      "state": "michigan",
+      "city": "saranac"
+    },
+    {
+      "state": "michigan",
+      "city": "saugatuck"
+    },
+    {
+      "state": "michigan",
+      "city": "sault-ste-marie"
+    },
+    {
+      "state": "michigan",
+      "city": "schoolcraft"
+    },
+    {
+      "state": "michigan",
+      "city": "scottville"
+    },
+    {
+      "state": "michigan",
+      "city": "sebewaing"
+    },
+    {
+      "state": "michigan",
+      "city": "shelby"
+    },
+    {
+      "state": "michigan",
+      "city": "shepherd"
+    },
+    {
+      "state": "michigan",
+      "city": "sheridan"
+    },
+    {
+      "state": "michigan",
+      "city": "sherwood"
+    },
+    {
+      "state": "michigan",
+      "city": "shields"
+    },
+    {
+      "state": "michigan",
+      "city": "shoreham"
+    },
+    {
+      "state": "michigan",
+      "city": "shorewood-tower-hills-harbert"
+    },
+    {
+      "state": "michigan",
+      "city": "skidway-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "snover"
+    },
+    {
+      "state": "michigan",
+      "city": "south-boardman"
+    },
+    {
+      "state": "michigan",
+      "city": "south-gull-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "south-haven"
+    },
+    {
+      "state": "michigan",
+      "city": "south-lyon"
+    },
+    {
+      "state": "michigan",
+      "city": "south-monroe"
+    },
+    {
+      "state": "michigan",
+      "city": "south-range"
+    },
+    {
+      "state": "michigan",
+      "city": "south-rockwood"
+    },
+    {
+      "state": "michigan",
+      "city": "southfield"
+    },
+    {
+      "state": "michigan",
+      "city": "southgate"
+    },
+    {
+      "state": "michigan",
+      "city": "sparta"
+    },
+    {
+      "state": "michigan",
+      "city": "spring-arbor"
+    },
+    {
+      "state": "michigan",
+      "city": "spring-lake"
+    },
+    {
+      "state": "michigan",
+      "city": "springfield"
+    },
+    {
+      "state": "michigan",
+      "city": "springport"
+    },
+    {
+      "state": "michigan",
+      "city": "st-charles"
+    },
+    {
+      "state": "michigan",
+      "city": "st-clair"
+    },
+    {
+      "state": "michigan",
+      "city": "st-clair-shores"
+    },
+    {
+      "state": "michigan",
+      "city": "st-helen"
+    },
+    {
+      "state": "michigan",
+      "city": "st-ignace"
+    },
+    {
+      "state": "michigan",
+      "city": "st-james"
+    },
+    {
+      "state": "michigan",
+      "city": "st-johns"
+    },
+    {
+      "state": "michigan",
+      "city": "st-joseph"
+    },
+    {
+      "state": "michigan",
+      "city": "st-louis"
+    },
+    {
+      "state": "michigan",
+      "city": "standish"
+    },
+    {
+      "state": "michigan",
+      "city": "stanton"
+    },
+    {
+      "state": "michigan",
+      "city": "stanwood"
+    },
+    {
+      "state": "michigan",
+      "city": "stephenson"
+    },
+    {
+      "state": "michigan",
+      "city": "sterling"
+    },
+    {
+      "state": "michigan",
+      "city": "sterling-heights"
+    },
+    {
+      "state": "michigan",
+      "city": "stevensville"
+    },
+    {
+      "state": "michigan",
+      "city": "stockbridge"
+    },
+    {
+      "state": "michigan",
+      "city": "stony-point"
+    },
+    {
+      "state": "michigan",
+      "city": "stronach"
     }
   ],
-  "generatedAt": "2026-09-23T13:58:05.256Z"
+  "generatedAt": "2026-09-24T13:54:48.631Z"
 }
