@@ -50799,7 +50799,407 @@
     {
       "state": "minnesota",
       "city": "searles"
+    },
+    {
+      "state": "minnesota",
+      "city": "sebeka"
+    },
+    {
+      "state": "minnesota",
+      "city": "sedan"
+    },
+    {
+      "state": "minnesota",
+      "city": "shafer"
+    },
+    {
+      "state": "minnesota",
+      "city": "shakopee"
+    },
+    {
+      "state": "minnesota",
+      "city": "shelly"
+    },
+    {
+      "state": "minnesota",
+      "city": "sherburn"
+    },
+    {
+      "state": "minnesota",
+      "city": "shevlin"
+    },
+    {
+      "state": "minnesota",
+      "city": "shoreview"
+    },
+    {
+      "state": "minnesota",
+      "city": "shorewood"
+    },
+    {
+      "state": "minnesota",
+      "city": "silver-bay"
+    },
+    {
+      "state": "minnesota",
+      "city": "silver-creek"
+    },
+    {
+      "state": "minnesota",
+      "city": "silver-lake"
+    },
+    {
+      "state": "minnesota",
+      "city": "skyline"
+    },
+    {
+      "state": "minnesota",
+      "city": "slayton"
+    },
+    {
+      "state": "minnesota",
+      "city": "sleepy-eye"
+    },
+    {
+      "state": "minnesota",
+      "city": "sobieski"
+    },
+    {
+      "state": "minnesota",
+      "city": "solway"
+    },
+    {
+      "state": "minnesota",
+      "city": "soudan"
+    },
+    {
+      "state": "minnesota",
+      "city": "south-end"
+    },
+    {
+      "state": "minnesota",
+      "city": "south-haven"
+    },
+    {
+      "state": "minnesota",
+      "city": "south-st-paul"
+    },
+    {
+      "state": "minnesota",
+      "city": "spicer"
+    },
+    {
+      "state": "minnesota",
+      "city": "spring-grove"
+    },
+    {
+      "state": "minnesota",
+      "city": "spring-hill"
+    },
+    {
+      "state": "minnesota",
+      "city": "spring-lake-park"
+    },
+    {
+      "state": "minnesota",
+      "city": "spring-park"
+    },
+    {
+      "state": "minnesota",
+      "city": "spring-valley"
+    },
+    {
+      "state": "minnesota",
+      "city": "springfield"
+    },
+    {
+      "state": "minnesota",
+      "city": "squaw-lake"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-anthony"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-augusta"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-bonifacius"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-charles"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-clair"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-cloud"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-francis"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-hilaire"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-james"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-joseph"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-leo"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-louis-park"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-martin"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-marys-point"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-michael"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-paul"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-paul-park"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-peter"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-rosa"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-stephen"
+    },
+    {
+      "state": "minnesota",
+      "city": "st-vincent"
+    },
+    {
+      "state": "minnesota",
+      "city": "stacy"
+    },
+    {
+      "state": "minnesota",
+      "city": "stanchfield"
+    },
+    {
+      "state": "minnesota",
+      "city": "staples"
+    },
+    {
+      "state": "minnesota",
+      "city": "starbuck"
+    },
+    {
+      "state": "minnesota",
+      "city": "steen"
+    },
+    {
+      "state": "minnesota",
+      "city": "stephen"
+    },
+    {
+      "state": "minnesota",
+      "city": "stewart"
+    },
+    {
+      "state": "minnesota",
+      "city": "stewartville"
+    },
+    {
+      "state": "minnesota",
+      "city": "stillwater"
+    },
+    {
+      "state": "minnesota",
+      "city": "stockton"
+    },
+    {
+      "state": "minnesota",
+      "city": "storden"
+    },
+    {
+      "state": "minnesota",
+      "city": "strandquist"
+    },
+    {
+      "state": "minnesota",
+      "city": "strathcona"
+    },
+    {
+      "state": "minnesota",
+      "city": "sturgeon-lake"
+    },
+    {
+      "state": "minnesota",
+      "city": "sunburg"
+    },
+    {
+      "state": "minnesota",
+      "city": "sunfish-lake"
+    },
+    {
+      "state": "minnesota",
+      "city": "swanville"
+    },
+    {
+      "state": "minnesota",
+      "city": "taconite"
+    },
+    {
+      "state": "minnesota",
+      "city": "tamarack"
+    },
+    {
+      "state": "minnesota",
+      "city": "taopi"
+    },
+    {
+      "state": "minnesota",
+      "city": "taunton"
+    },
+    {
+      "state": "minnesota",
+      "city": "taylors-falls"
+    },
+    {
+      "state": "minnesota",
+      "city": "tenstrike"
+    },
+    {
+      "state": "minnesota",
+      "city": "the-lakes"
+    },
+    {
+      "state": "minnesota",
+      "city": "the-ranch"
+    },
+    {
+      "state": "minnesota",
+      "city": "thief-river-falls"
+    },
+    {
+      "state": "minnesota",
+      "city": "tintah"
+    },
+    {
+      "state": "minnesota",
+      "city": "tonka-bay"
+    },
+    {
+      "state": "minnesota",
+      "city": "tower"
+    },
+    {
+      "state": "minnesota",
+      "city": "tracy"
+    },
+    {
+      "state": "minnesota",
+      "city": "trail"
+    },
+    {
+      "state": "minnesota",
+      "city": "trimont"
+    },
+    {
+      "state": "minnesota",
+      "city": "trommald"
+    },
+    {
+      "state": "minnesota",
+      "city": "trosky"
+    },
+    {
+      "state": "minnesota",
+      "city": "truman"
+    },
+    {
+      "state": "minnesota",
+      "city": "turtle-river"
+    },
+    {
+      "state": "minnesota",
+      "city": "twin-lakes"
+    },
+    {
+      "state": "minnesota",
+      "city": "twin-valley"
+    },
+    {
+      "state": "minnesota",
+      "city": "two-harbors"
+    },
+    {
+      "state": "minnesota",
+      "city": "tyler"
+    },
+    {
+      "state": "minnesota",
+      "city": "ulen"
+    },
+    {
+      "state": "minnesota",
+      "city": "underwood"
+    },
+    {
+      "state": "minnesota",
+      "city": "upsala"
+    },
+    {
+      "state": "minnesota",
+      "city": "urbank"
+    },
+    {
+      "state": "minnesota",
+      "city": "utica"
+    },
+    {
+      "state": "minnesota",
+      "city": "vadnais-heights"
+    },
+    {
+      "state": "minnesota",
+      "city": "vergas"
+    },
+    {
+      "state": "minnesota",
+      "city": "vermillion"
+    },
+    {
+      "state": "minnesota",
+      "city": "verndale"
+    },
+    {
+      "state": "minnesota",
+      "city": "vernon-center"
     }
   ],
-  "generatedAt": "2026-10-02T15:11:51.244Z"
+  "generatedAt": "2026-10-03T14:04:27.265Z"
 }
