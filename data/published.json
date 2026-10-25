@@ -59599,7 +59599,407 @@
     {
       "state": "nebraska",
       "city": "kilgore"
+    },
+    {
+      "state": "nebraska",
+      "city": "kimball"
+    },
+    {
+      "state": "nebraska",
+      "city": "king-lake"
+    },
+    {
+      "state": "nebraska",
+      "city": "la-platte"
+    },
+    {
+      "state": "nebraska",
+      "city": "la-vista"
+    },
+    {
+      "state": "nebraska",
+      "city": "lakeview"
+    },
+    {
+      "state": "nebraska",
+      "city": "lamar"
+    },
+    {
+      "state": "nebraska",
+      "city": "laurel"
+    },
+    {
+      "state": "nebraska",
+      "city": "lawrence"
+    },
+    {
+      "state": "nebraska",
+      "city": "lebanon"
+    },
+    {
+      "state": "nebraska",
+      "city": "leigh"
+    },
+    {
+      "state": "nebraska",
+      "city": "lemoyne"
+    },
+    {
+      "state": "nebraska",
+      "city": "leshara"
+    },
+    {
+      "state": "nebraska",
+      "city": "lewellen"
+    },
+    {
+      "state": "nebraska",
+      "city": "lewiston"
+    },
+    {
+      "state": "nebraska",
+      "city": "lexington"
+    },
+    {
+      "state": "nebraska",
+      "city": "liberty"
+    },
+    {
+      "state": "nebraska",
+      "city": "lincoln"
+    },
+    {
+      "state": "nebraska",
+      "city": "lindsay"
+    },
+    {
+      "state": "nebraska",
+      "city": "lindy"
+    },
+    {
+      "state": "nebraska",
+      "city": "linwood"
+    },
+    {
+      "state": "nebraska",
+      "city": "lisco"
+    },
+    {
+      "state": "nebraska",
+      "city": "litchfield"
+    },
+    {
+      "state": "nebraska",
+      "city": "lodgepole"
+    },
+    {
+      "state": "nebraska",
+      "city": "long-pine"
+    },
+    {
+      "state": "nebraska",
+      "city": "loomis"
+    },
+    {
+      "state": "nebraska",
+      "city": "lorenzo"
+    },
+    {
+      "state": "nebraska",
+      "city": "loretto"
+    },
+    {
+      "state": "nebraska",
+      "city": "lorton"
+    },
+    {
+      "state": "nebraska",
+      "city": "louisville"
+    },
+    {
+      "state": "nebraska",
+      "city": "loup-city"
+    },
+    {
+      "state": "nebraska",
+      "city": "lushton"
+    },
+    {
+      "state": "nebraska",
+      "city": "lyman"
+    },
+    {
+      "state": "nebraska",
+      "city": "lynch"
+    },
+    {
+      "state": "nebraska",
+      "city": "lyons"
+    },
+    {
+      "state": "nebraska",
+      "city": "macy"
+    },
+    {
+      "state": "nebraska",
+      "city": "madison"
+    },
+    {
+      "state": "nebraska",
+      "city": "madrid"
+    },
+    {
+      "state": "nebraska",
+      "city": "magnet"
+    },
+    {
+      "state": "nebraska",
+      "city": "malcolm"
+    },
+    {
+      "state": "nebraska",
+      "city": "malmo"
+    },
+    {
+      "state": "nebraska",
+      "city": "manley"
+    },
+    {
+      "state": "nebraska",
+      "city": "marquette"
+    },
+    {
+      "state": "nebraska",
+      "city": "martin"
+    },
+    {
+      "state": "nebraska",
+      "city": "martinsburg"
+    },
+    {
+      "state": "nebraska",
+      "city": "maskell"
+    },
+    {
+      "state": "nebraska",
+      "city": "mason-city"
+    },
+    {
+      "state": "nebraska",
+      "city": "max"
+    },
+    {
+      "state": "nebraska",
+      "city": "maxwell"
+    },
+    {
+      "state": "nebraska",
+      "city": "maywood"
+    },
+    {
+      "state": "nebraska",
+      "city": "mccook"
+    },
+    {
+      "state": "nebraska",
+      "city": "mccool-junction"
+    },
+    {
+      "state": "nebraska",
+      "city": "mcgrew"
+    },
+    {
+      "state": "nebraska",
+      "city": "mclean"
+    },
+    {
+      "state": "nebraska",
+      "city": "mead"
+    },
+    {
+      "state": "nebraska",
+      "city": "meadow-grove"
+    },
+    {
+      "state": "nebraska",
+      "city": "melbeta"
+    },
+    {
+      "state": "nebraska",
+      "city": "memphis"
+    },
+    {
+      "state": "nebraska",
+      "city": "merna"
+    },
+    {
+      "state": "nebraska",
+      "city": "merriman"
+    },
+    {
+      "state": "nebraska",
+      "city": "milford"
+    },
+    {
+      "state": "nebraska",
+      "city": "miller"
+    },
+    {
+      "state": "nebraska",
+      "city": "milligan"
+    },
+    {
+      "state": "nebraska",
+      "city": "minatare"
+    },
+    {
+      "state": "nebraska",
+      "city": "minden"
+    },
+    {
+      "state": "nebraska",
+      "city": "mitchell"
+    },
+    {
+      "state": "nebraska",
+      "city": "monowi"
+    },
+    {
+      "state": "nebraska",
+      "city": "monroe"
+    },
+    {
+      "state": "nebraska",
+      "city": "moorefield"
+    },
+    {
+      "state": "nebraska",
+      "city": "morrill"
+    },
+    {
+      "state": "nebraska",
+      "city": "morse-bluff"
+    },
+    {
+      "state": "nebraska",
+      "city": "mullen"
+    },
+    {
+      "state": "nebraska",
+      "city": "murdock"
+    },
+    {
+      "state": "nebraska",
+      "city": "murray"
+    },
+    {
+      "state": "nebraska",
+      "city": "naper"
+    },
+    {
+      "state": "nebraska",
+      "city": "naponee"
+    },
+    {
+      "state": "nebraska",
+      "city": "nebraska-city"
+    },
+    {
+      "state": "nebraska",
+      "city": "nehawka"
+    },
+    {
+      "state": "nebraska",
+      "city": "neligh"
+    },
+    {
+      "state": "nebraska",
+      "city": "nelson"
+    },
+    {
+      "state": "nebraska",
+      "city": "nemaha"
+    },
+    {
+      "state": "nebraska",
+      "city": "nenzel"
+    },
+    {
+      "state": "nebraska",
+      "city": "newcastle"
+    },
+    {
+      "state": "nebraska",
+      "city": "newman-grove"
+    },
+    {
+      "state": "nebraska",
+      "city": "newport"
+    },
+    {
+      "state": "nebraska",
+      "city": "nickerson"
+    },
+    {
+      "state": "nebraska",
+      "city": "niobrara"
+    },
+    {
+      "state": "nebraska",
+      "city": "nora"
+    },
+    {
+      "state": "nebraska",
+      "city": "norfolk"
+    },
+    {
+      "state": "nebraska",
+      "city": "norman"
+    },
+    {
+      "state": "nebraska",
+      "city": "north-bend"
+    },
+    {
+      "state": "nebraska",
+      "city": "north-loup"
+    },
+    {
+      "state": "nebraska",
+      "city": "north-platte"
+    },
+    {
+      "state": "nebraska",
+      "city": "o-neill"
+    },
+    {
+      "state": "nebraska",
+      "city": "oak"
+    },
+    {
+      "state": "nebraska",
+      "city": "oakdale"
+    },
+    {
+      "state": "nebraska",
+      "city": "oakland"
+    },
+    {
+      "state": "nebraska",
+      "city": "obert"
+    },
+    {
+      "state": "nebraska",
+      "city": "oconto"
+    },
+    {
+      "state": "nebraska",
+      "city": "octavia"
+    },
+    {
+      "state": "nebraska",
+      "city": "odell"
     }
   ],
-  "generatedAt": "2026-10-24T13:00:12.628Z"
+  "generatedAt": "2026-10-25T13:27:16.120Z"
 }
