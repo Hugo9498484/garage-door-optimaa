@@ -61599,7 +61599,407 @@
     {
       "state": "new-jersey",
       "city": "bogota"
+    },
+    {
+      "state": "new-jersey",
+      "city": "boonton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "bound-brook"
+    },
+    {
+      "state": "new-jersey",
+      "city": "bradley-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "bradley-gardens"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brainards"
+    },
+    {
+      "state": "new-jersey",
+      "city": "branchville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brass-castle"
+    },
+    {
+      "state": "new-jersey",
+      "city": "bridgeton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "bridgeville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brielle"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brigantine"
+    },
+    {
+      "state": "new-jersey",
+      "city": "broadway"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brookdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brookfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brooklawn"
+    },
+    {
+      "state": "new-jersey",
+      "city": "browns-mills"
+    },
+    {
+      "state": "new-jersey",
+      "city": "brownville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "budd-lake"
+    },
+    {
+      "state": "new-jersey",
+      "city": "buena"
+    },
+    {
+      "state": "new-jersey",
+      "city": "burleigh"
+    },
+    {
+      "state": "new-jersey",
+      "city": "butler"
+    },
+    {
+      "state": "new-jersey",
+      "city": "byram-center"
+    },
+    {
+      "state": "new-jersey",
+      "city": "caldwell"
+    },
+    {
+      "state": "new-jersey",
+      "city": "califon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "camden"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cape-may"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cape-may-court-house"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cape-may-point"
+    },
+    {
+      "state": "new-jersey",
+      "city": "carlstadt"
+    },
+    {
+      "state": "new-jersey",
+      "city": "carteret"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cedar-glen-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cedar-glen-west"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cedarville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cherry-hill-mall"
+    },
+    {
+      "state": "new-jersey",
+      "city": "chesilhurst"
+    },
+    {
+      "state": "new-jersey",
+      "city": "clayton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "clearbrook-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "clementon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cliffside-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cliffwood-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "clifton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "closter"
+    },
+    {
+      "state": "new-jersey",
+      "city": "clyde"
+    },
+    {
+      "state": "new-jersey",
+      "city": "collings-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "collingswood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "colonia"
+    },
+    {
+      "state": "new-jersey",
+      "city": "columbia"
+    },
+    {
+      "state": "new-jersey",
+      "city": "concordia"
+    },
+    {
+      "state": "new-jersey",
+      "city": "corbin-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "country-lake-estates"
+    },
+    {
+      "state": "new-jersey",
+      "city": "crandon-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "cresskill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "crestwood-village"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dayton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "deal"
+    },
+    {
+      "state": "new-jersey",
+      "city": "delaware-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "demarest"
+    },
+    {
+      "state": "new-jersey",
+      "city": "diamond-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dover"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dover-beaches-north"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dover-beaches-south"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dumont"
+    },
+    {
+      "state": "new-jersey",
+      "city": "dunellen"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-franklin"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-freehold"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-millstone"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-newark"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-orange"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-rocky-hill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "east-rutherford"
+    },
+    {
+      "state": "new-jersey",
+      "city": "eatontown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "echelon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "edgewater"
+    },
+    {
+      "state": "new-jersey",
+      "city": "egg-harbor-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "elizabeth"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ellisburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "elmer"
+    },
+    {
+      "state": "new-jersey",
+      "city": "elmwood-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "elwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "emerson"
+    },
+    {
+      "state": "new-jersey",
+      "city": "englewood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "englewood-cliffs"
+    },
+    {
+      "state": "new-jersey",
+      "city": "englishtown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "erma"
+    },
+    {
+      "state": "new-jersey",
+      "city": "essex-fells"
+    },
+    {
+      "state": "new-jersey",
+      "city": "estell-manor"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fair-haven"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fair-lawn"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fairton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fairview"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fanwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "far-hills"
+    },
+    {
+      "state": "new-jersey",
+      "city": "farmingdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fieldsboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "finderne"
+    },
+    {
+      "state": "new-jersey",
+      "city": "finesville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "flemington"
+    },
+    {
+      "state": "new-jersey",
+      "city": "florham-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "folsom"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fords"
     }
   ],
-  "generatedAt": "2026-10-29T15:43:49.229Z"
+  "generatedAt": "2026-10-30T15:26:11.269Z"
 }
