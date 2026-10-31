@@ -61999,7 +61999,407 @@
     {
       "state": "new-jersey",
       "city": "fords"
+    },
+    {
+      "state": "new-jersey",
+      "city": "forked-river"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fort-dix"
+    },
+    {
+      "state": "new-jersey",
+      "city": "fort-lee"
+    },
+    {
+      "state": "new-jersey",
+      "city": "franklin"
+    },
+    {
+      "state": "new-jersey",
+      "city": "franklin-center"
+    },
+    {
+      "state": "new-jersey",
+      "city": "franklin-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "franklin-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "frenchtown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "garfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "garwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "gibbsboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "gibbstown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "glassboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "glen-gardner"
+    },
+    {
+      "state": "new-jersey",
+      "city": "glen-ridge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "glen-rock"
+    },
+    {
+      "state": "new-jersey",
+      "city": "glendora"
+    },
+    {
+      "state": "new-jersey",
+      "city": "gloucester-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "golden-triangle"
+    },
+    {
+      "state": "new-jersey",
+      "city": "great-meadows"
+    },
+    {
+      "state": "new-jersey",
+      "city": "green-knoll"
+    },
+    {
+      "state": "new-jersey",
+      "city": "greentree"
+    },
+    {
+      "state": "new-jersey",
+      "city": "griggstown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "groveville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "guttenberg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hackensack"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hackettstown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "haddon-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "haddonfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hainesburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "haledon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hamburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hamilton-square"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hammonton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hancocks-bridge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "harlingen"
+    },
+    {
+      "state": "new-jersey",
+      "city": "harrington-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "harrison"
+    },
+    {
+      "state": "new-jersey",
+      "city": "harvey-cedars"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hasbrouck-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "haworth"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hawthorne"
+    },
+    {
+      "state": "new-jersey",
+      "city": "heathcote"
+    },
+    {
+      "state": "new-jersey",
+      "city": "helmetta"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hi-nella"
+    },
+    {
+      "state": "new-jersey",
+      "city": "high-bridge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "highland-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "highland-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "highlands"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hightstown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hillsdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ho-ho-kus"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hoboken"
+    },
+    {
+      "state": "new-jersey",
+      "city": "holiday-city-south"
+    },
+    {
+      "state": "new-jersey",
+      "city": "holiday-city-berkeley"
+    },
+    {
+      "state": "new-jersey",
+      "city": "holiday-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hopatcong"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hopewell"
+    },
+    {
+      "state": "new-jersey",
+      "city": "hutchinson"
+    },
+    {
+      "state": "new-jersey",
+      "city": "interlaken"
+    },
+    {
+      "state": "new-jersey",
+      "city": "iselin"
+    },
+    {
+      "state": "new-jersey",
+      "city": "island-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "jamesburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "jersey-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "johnsonburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "juliustown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "keansburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kearny"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kendall-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kenilworth"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kenvil"
+    },
+    {
+      "state": "new-jersey",
+      "city": "keyport"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kingston"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kingston-estates"
+    },
+    {
+      "state": "new-jersey",
+      "city": "kinnelon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lake-como"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lake-mohawk"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lake-telemark"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lakehurst"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lambertville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "laurel-lake"
+    },
+    {
+      "state": "new-jersey",
+      "city": "laurel-springs"
+    },
+    {
+      "state": "new-jersey",
+      "city": "laurence-harbor"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lavallette"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lawnside"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lawrenceville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leisure-knoll"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leisure-village"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leisure-village-east"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leisure-village-west"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leisuretowne"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leonardo"
+    },
+    {
+      "state": "new-jersey",
+      "city": "leonia"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lincoln-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lincroft"
+    },
+    {
+      "state": "new-jersey",
+      "city": "linden"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lindenwold"
+    },
+    {
+      "state": "new-jersey",
+      "city": "linwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "little-ferry"
+    },
+    {
+      "state": "new-jersey",
+      "city": "little-silver"
     }
   ],
-  "generatedAt": "2026-10-30T15:26:11.269Z"
+  "generatedAt": "2026-10-31T14:54:21.458Z"
 }
