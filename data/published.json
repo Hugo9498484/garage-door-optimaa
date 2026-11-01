@@ -62399,7 +62399,407 @@
     {
       "state": "new-jersey",
       "city": "little-silver"
+    },
+    {
+      "state": "new-jersey",
+      "city": "loch-arbour"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lodi"
+    },
+    {
+      "state": "new-jersey",
+      "city": "long-branch"
+    },
+    {
+      "state": "new-jersey",
+      "city": "long-valley"
+    },
+    {
+      "state": "new-jersey",
+      "city": "longport"
+    },
+    {
+      "state": "new-jersey",
+      "city": "lopatcong-overlook"
+    },
+    {
+      "state": "new-jersey",
+      "city": "madison"
+    },
+    {
+      "state": "new-jersey",
+      "city": "madison-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "magnolia"
+    },
+    {
+      "state": "new-jersey",
+      "city": "manahawkin"
+    },
+    {
+      "state": "new-jersey",
+      "city": "manasquan"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mantoloking"
+    },
+    {
+      "state": "new-jersey",
+      "city": "manville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "margate-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "marksboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "marlton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "martinsville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "matawan"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mays-landing"
+    },
+    {
+      "state": "new-jersey",
+      "city": "maywood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mcguire-afb"
+    },
+    {
+      "state": "new-jersey",
+      "city": "medford-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mercerville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "merchantville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "metuchen"
+    },
+    {
+      "state": "new-jersey",
+      "city": "middlebush"
+    },
+    {
+      "state": "new-jersey",
+      "city": "middlesex"
+    },
+    {
+      "state": "new-jersey",
+      "city": "midland-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "milford"
+    },
+    {
+      "state": "new-jersey",
+      "city": "milltown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "millville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "monmouth-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "monmouth-junction"
+    },
+    {
+      "state": "new-jersey",
+      "city": "montvale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "moonachie"
+    },
+    {
+      "state": "new-jersey",
+      "city": "moorestown-lenola"
+    },
+    {
+      "state": "new-jersey",
+      "city": "morganville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "morris-plains"
+    },
+    {
+      "state": "new-jersey",
+      "city": "morristown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mount-arlington"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mount-ephraim"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mount-hermon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mountain-lake"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mountain-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mountainside"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mullica-hill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "mystic-island"
+    },
+    {
+      "state": "new-jersey",
+      "city": "national-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "navesink"
+    },
+    {
+      "state": "new-jersey",
+      "city": "neptune-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "netcong"
+    },
+    {
+      "state": "new-jersey",
+      "city": "new-brunswick"
+    },
+    {
+      "state": "new-jersey",
+      "city": "new-egypt"
+    },
+    {
+      "state": "new-jersey",
+      "city": "new-milford"
+    },
+    {
+      "state": "new-jersey",
+      "city": "new-providence"
+    },
+    {
+      "state": "new-jersey",
+      "city": "new-village"
+    },
+    {
+      "state": "new-jersey",
+      "city": "newark"
+    },
+    {
+      "state": "new-jersey",
+      "city": "newfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "newton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-arlington"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-beach-haven"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-caldwell"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-cape-may"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-haledon"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-middletown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-plainfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "north-wildwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "northfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "northvale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "norwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oak-valley"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oakhurst"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oakland"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oaklyn"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ocean-acres"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ocean-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ocean-gate"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ocean-grove"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oceanport"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ogdensburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "old-tappan"
+    },
+    {
+      "state": "new-jersey",
+      "city": "olivet"
+    },
+    {
+      "state": "new-jersey",
+      "city": "oradell"
+    },
+    {
+      "state": "new-jersey",
+      "city": "palisades-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "palmyra"
+    },
+    {
+      "state": "new-jersey",
+      "city": "panther-valley"
+    },
+    {
+      "state": "new-jersey",
+      "city": "paramus"
+    },
+    {
+      "state": "new-jersey",
+      "city": "park-ridge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "passaic"
+    },
+    {
+      "state": "new-jersey",
+      "city": "paterson"
+    },
+    {
+      "state": "new-jersey",
+      "city": "paulsboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "peapack-and-gladstone"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pedricktown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pemberton-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pennington"
+    },
+    {
+      "state": "new-jersey",
+      "city": "penns-grove"
+    },
+    {
+      "state": "new-jersey",
+      "city": "perth-amboy"
+    },
+    {
+      "state": "new-jersey",
+      "city": "phillipsburg"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pine-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pine-hill"
     }
   ],
-  "generatedAt": "2026-10-31T14:54:21.458Z"
+  "generatedAt": "2026-11-01T15:36:09.061Z"
 }
