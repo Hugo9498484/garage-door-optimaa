@@ -62799,7 +62799,407 @@
     {
       "state": "new-jersey",
       "city": "pine-hill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pine-lake-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pine-ridge-at-crestwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pine-valley"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pitman"
+    },
+    {
+      "state": "new-jersey",
+      "city": "plainfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "plainsboro-center"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pleasant-plains"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pleasantville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "point-pleasant"
+    },
+    {
+      "state": "new-jersey",
+      "city": "point-pleasant-beach"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pomona"
+    },
+    {
+      "state": "new-jersey",
+      "city": "pompton-lakes"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-colden"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-monmouth"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-murray"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-norris"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-reading"
+    },
+    {
+      "state": "new-jersey",
+      "city": "port-republic"
+    },
+    {
+      "state": "new-jersey",
+      "city": "presidential-lakes-estates"
+    },
+    {
+      "state": "new-jersey",
+      "city": "princeton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "princeton-junction"
+    },
+    {
+      "state": "new-jersey",
+      "city": "princeton-meadows"
+    },
+    {
+      "state": "new-jersey",
+      "city": "prospect-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rahway"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ramblewood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ramsey"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ramtown"
+    },
+    {
+      "state": "new-jersey",
+      "city": "red-bank"
+    },
+    {
+      "state": "new-jersey",
+      "city": "richwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ridgefield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ridgefield-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ridgewood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ringwood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rio-grande"
+    },
+    {
+      "state": "new-jersey",
+      "city": "river-edge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "riverdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "riverton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "robertsville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rockleigh"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rocky-hill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "roebling"
+    },
+    {
+      "state": "new-jersey",
+      "city": "roosevelt"
+    },
+    {
+      "state": "new-jersey",
+      "city": "roseland"
+    },
+    {
+      "state": "new-jersey",
+      "city": "roselle"
+    },
+    {
+      "state": "new-jersey",
+      "city": "roselle-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rosenhayn"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ross-corner"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rossmoor"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rumson"
+    },
+    {
+      "state": "new-jersey",
+      "city": "runnemede"
+    },
+    {
+      "state": "new-jersey",
+      "city": "rutherford"
+    },
+    {
+      "state": "new-jersey",
+      "city": "saddle-river"
+    },
+    {
+      "state": "new-jersey",
+      "city": "salem"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sayreville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sea-bright"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sea-girt"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sea-isle-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "seabrook-farms"
+    },
+    {
+      "state": "new-jersey",
+      "city": "seaside-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "seaside-park"
+    },
+    {
+      "state": "new-jersey",
+      "city": "secaucus"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sewaren"
+    },
+    {
+      "state": "new-jersey",
+      "city": "shark-river-hills"
+    },
+    {
+      "state": "new-jersey",
+      "city": "shiloh"
+    },
+    {
+      "state": "new-jersey",
+      "city": "ship-bottom"
+    },
+    {
+      "state": "new-jersey",
+      "city": "short-hills"
+    },
+    {
+      "state": "new-jersey",
+      "city": "shrewsbury"
+    },
+    {
+      "state": "new-jersey",
+      "city": "silver-lake"
+    },
+    {
+      "state": "new-jersey",
+      "city": "silver-ridge"
+    },
+    {
+      "state": "new-jersey",
+      "city": "singac"
+    },
+    {
+      "state": "new-jersey",
+      "city": "six-mile-run"
+    },
+    {
+      "state": "new-jersey",
+      "city": "skillman"
+    },
+    {
+      "state": "new-jersey",
+      "city": "smithville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "society-hill"
+    },
+    {
+      "state": "new-jersey",
+      "city": "somerdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "somers-point"
+    },
+    {
+      "state": "new-jersey",
+      "city": "somerset"
+    },
+    {
+      "state": "new-jersey",
+      "city": "somerville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "south-amboy"
+    },
+    {
+      "state": "new-jersey",
+      "city": "south-bound-brook"
+    },
+    {
+      "state": "new-jersey",
+      "city": "south-plainfield"
+    },
+    {
+      "state": "new-jersey",
+      "city": "south-river"
+    },
+    {
+      "state": "new-jersey",
+      "city": "south-toms-river"
+    },
+    {
+      "state": "new-jersey",
+      "city": "spotswood"
+    },
+    {
+      "state": "new-jersey",
+      "city": "spring-lake"
+    },
+    {
+      "state": "new-jersey",
+      "city": "spring-lake-heights"
+    },
+    {
+      "state": "new-jersey",
+      "city": "springdale"
+    },
+    {
+      "state": "new-jersey",
+      "city": "stanhope"
+    },
+    {
+      "state": "new-jersey",
+      "city": "stewartsville"
+    },
+    {
+      "state": "new-jersey",
+      "city": "stockton"
+    },
+    {
+      "state": "new-jersey",
+      "city": "stone-harbor"
+    },
+    {
+      "state": "new-jersey",
+      "city": "stratford"
+    },
+    {
+      "state": "new-jersey",
+      "city": "strathmere"
+    },
+    {
+      "state": "new-jersey",
+      "city": "strathmore"
+    },
+    {
+      "state": "new-jersey",
+      "city": "succasunna"
+    },
+    {
+      "state": "new-jersey",
+      "city": "summit"
+    },
+    {
+      "state": "new-jersey",
+      "city": "surf-city"
+    },
+    {
+      "state": "new-jersey",
+      "city": "sussex"
+    },
+    {
+      "state": "new-jersey",
+      "city": "swedesboro"
+    },
+    {
+      "state": "new-jersey",
+      "city": "tavistock"
     }
   ],
-  "generatedAt": "2026-11-01T15:36:09.061Z"
+  "generatedAt": "2026-11-02T18:58:30.560Z"
 }
