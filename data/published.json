@@ -63599,7 +63599,407 @@
     {
       "state": "new-mexico",
       "city": "bluewater-village"
+    },
+    {
+      "state": "new-mexico",
+      "city": "boles-acres"
+    },
+    {
+      "state": "new-mexico",
+      "city": "bosque-farms"
+    },
+    {
+      "state": "new-mexico",
+      "city": "brazos"
+    },
+    {
+      "state": "new-mexico",
+      "city": "brimhall-nizhoni"
+    },
+    {
+      "state": "new-mexico",
+      "city": "buckhorn"
+    },
+    {
+      "state": "new-mexico",
+      "city": "caballo"
+    },
+    {
+      "state": "new-mexico",
+      "city": "ca-ada-de-los-alamos"
+    },
+    {
+      "state": "new-mexico",
+      "city": "canjilon"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cannon-afb"
+    },
+    {
+      "state": "new-mexico",
+      "city": "ca-on"
+    },
+    {
+      "state": "new-mexico",
+      "city": "ca-ones"
+    },
+    {
+      "state": "new-mexico",
+      "city": "canova"
+    },
+    {
+      "state": "new-mexico",
+      "city": "capitan"
+    },
+    {
+      "state": "new-mexico",
+      "city": "capulin"
+    },
+    {
+      "state": "new-mexico",
+      "city": "carlsbad"
+    },
+    {
+      "state": "new-mexico",
+      "city": "carnuel"
+    },
+    {
+      "state": "new-mexico",
+      "city": "carrizozo"
+    },
+    {
+      "state": "new-mexico",
+      "city": "casa-colorada"
+    },
+    {
+      "state": "new-mexico",
+      "city": "causey"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cedar-crest"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cedar-grove"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cedar-hill"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cedro"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chama"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chamberino"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chamisal"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chamita"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chamizal"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chaparral"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chical"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chili"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chilili"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chimayo"
+    },
+    {
+      "state": "new-mexico",
+      "city": "chupadero"
+    },
+    {
+      "state": "new-mexico",
+      "city": "church-rock"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cimarron"
+    },
+    {
+      "state": "new-mexico",
+      "city": "city-of-the-sun"
+    },
+    {
+      "state": "new-mexico",
+      "city": "clayton"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cliff"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cloudcroft"
+    },
+    {
+      "state": "new-mexico",
+      "city": "clovis"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cobre"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cochiti"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cochiti-lake"
+    },
+    {
+      "state": "new-mexico",
+      "city": "columbus"
+    },
+    {
+      "state": "new-mexico",
+      "city": "conchas-dam"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cordova"
+    },
+    {
+      "state": "new-mexico",
+      "city": "corona"
+    },
+    {
+      "state": "new-mexico",
+      "city": "corrales"
+    },
+    {
+      "state": "new-mexico",
+      "city": "costilla"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cotton-city"
+    },
+    {
+      "state": "new-mexico",
+      "city": "coyote"
+    },
+    {
+      "state": "new-mexico",
+      "city": "crownpoint"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cruzville"
+    },
+    {
+      "state": "new-mexico",
+      "city": "crystal"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cuartelez"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cuba"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cubero"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cundiyo"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cuyamungue"
+    },
+    {
+      "state": "new-mexico",
+      "city": "cuyamungue-grant"
+    },
+    {
+      "state": "new-mexico",
+      "city": "datil"
+    },
+    {
+      "state": "new-mexico",
+      "city": "deming"
+    },
+    {
+      "state": "new-mexico",
+      "city": "des-moines"
+    },
+    {
+      "state": "new-mexico",
+      "city": "dexter"
+    },
+    {
+      "state": "new-mexico",
+      "city": "dixon"
+    },
+    {
+      "state": "new-mexico",
+      "city": "do-a-ana"
+    },
+    {
+      "state": "new-mexico",
+      "city": "dora"
+    },
+    {
+      "state": "new-mexico",
+      "city": "dulce"
+    },
+    {
+      "state": "new-mexico",
+      "city": "duran"
+    },
+    {
+      "state": "new-mexico",
+      "city": "eagle-nest"
+    },
+    {
+      "state": "new-mexico",
+      "city": "east-pecos"
+    },
+    {
+      "state": "new-mexico",
+      "city": "edgewood"
+    },
+    {
+      "state": "new-mexico",
+      "city": "edith-endave"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-cerro"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-cerro-mission"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-duende"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-rancho"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-rito"
+    },
+    {
+      "state": "new-mexico",
+      "city": "el-valle-de-arroyo-seco"
+    },
+    {
+      "state": "new-mexico",
+      "city": "eldorado-at-santa-fe"
+    },
+    {
+      "state": "new-mexico",
+      "city": "elephant-butte"
+    },
+    {
+      "state": "new-mexico",
+      "city": "elida"
+    },
+    {
+      "state": "new-mexico",
+      "city": "encinal"
+    },
+    {
+      "state": "new-mexico",
+      "city": "encino"
+    },
+    {
+      "state": "new-mexico",
+      "city": "ensenada"
+    },
+    {
+      "state": "new-mexico",
+      "city": "escondida"
+    },
+    {
+      "state": "new-mexico",
+      "city": "escudilla-bonita"
+    },
+    {
+      "state": "new-mexico",
+      "city": "espa-ola"
+    },
+    {
+      "state": "new-mexico",
+      "city": "estancia"
+    },
+    {
+      "state": "new-mexico",
+      "city": "eunice"
+    },
+    {
+      "state": "new-mexico",
+      "city": "fairacres"
+    },
+    {
+      "state": "new-mexico",
+      "city": "farmington"
+    },
+    {
+      "state": "new-mexico",
+      "city": "faywood"
+    },
+    {
+      "state": "new-mexico",
+      "city": "fence-lake"
+    },
+    {
+      "state": "new-mexico",
+      "city": "flora-vista"
+    },
+    {
+      "state": "new-mexico",
+      "city": "floyd"
+    },
+    {
+      "state": "new-mexico",
+      "city": "folsom"
+    },
+    {
+      "state": "new-mexico",
+      "city": "fort-sumner"
+    },
+    {
+      "state": "new-mexico",
+      "city": "galisteo"
     }
   ],
-  "generatedAt": "2026-11-03T16:43:46.663Z"
+  "generatedAt": "2026-11-04T16:40:44.702Z"
 }
