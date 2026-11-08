@@ -65199,7 +65199,407 @@
     {
       "state": "new-york",
       "city": "ames"
+    },
+    {
+      "state": "new-york",
+      "city": "amityville"
+    },
+    {
+      "state": "new-york",
+      "city": "amsterdam"
+    },
+    {
+      "state": "new-york",
+      "city": "angola"
+    },
+    {
+      "state": "new-york",
+      "city": "angola-on-the-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "apalachin"
+    },
+    {
+      "state": "new-york",
+      "city": "aquebogue"
+    },
+    {
+      "state": "new-york",
+      "city": "ardsley"
+    },
+    {
+      "state": "new-york",
+      "city": "arkport"
+    },
+    {
+      "state": "new-york",
+      "city": "arlington"
+    },
+    {
+      "state": "new-york",
+      "city": "armonk"
+    },
+    {
+      "state": "new-york",
+      "city": "asharoken"
+    },
+    {
+      "state": "new-york",
+      "city": "atlantic-beach"
+    },
+    {
+      "state": "new-york",
+      "city": "au-sable-forks"
+    },
+    {
+      "state": "new-york",
+      "city": "auburn"
+    },
+    {
+      "state": "new-york",
+      "city": "averill-park"
+    },
+    {
+      "state": "new-york",
+      "city": "baiting-hollow"
+    },
+    {
+      "state": "new-york",
+      "city": "baldwin"
+    },
+    {
+      "state": "new-york",
+      "city": "baldwin-harbor"
+    },
+    {
+      "state": "new-york",
+      "city": "baldwinsville"
+    },
+    {
+      "state": "new-york",
+      "city": "ballston-spa"
+    },
+    {
+      "state": "new-york",
+      "city": "balmville"
+    },
+    {
+      "state": "new-york",
+      "city": "bardonia"
+    },
+    {
+      "state": "new-york",
+      "city": "barnum-island"
+    },
+    {
+      "state": "new-york",
+      "city": "batavia"
+    },
+    {
+      "state": "new-york",
+      "city": "baxter-estates"
+    },
+    {
+      "state": "new-york",
+      "city": "bay-park"
+    },
+    {
+      "state": "new-york",
+      "city": "bay-shore"
+    },
+    {
+      "state": "new-york",
+      "city": "bayport"
+    },
+    {
+      "state": "new-york",
+      "city": "bayville"
+    },
+    {
+      "state": "new-york",
+      "city": "baywood"
+    },
+    {
+      "state": "new-york",
+      "city": "beacon"
+    },
+    {
+      "state": "new-york",
+      "city": "beaver-dam-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "bedford-hills"
+    },
+    {
+      "state": "new-york",
+      "city": "belle-terre"
+    },
+    {
+      "state": "new-york",
+      "city": "bellerose"
+    },
+    {
+      "state": "new-york",
+      "city": "bellerose-terrace"
+    },
+    {
+      "state": "new-york",
+      "city": "belleville"
+    },
+    {
+      "state": "new-york",
+      "city": "bellmore"
+    },
+    {
+      "state": "new-york",
+      "city": "bellport"
+    },
+    {
+      "state": "new-york",
+      "city": "belmont"
+    },
+    {
+      "state": "new-york",
+      "city": "bemus-point"
+    },
+    {
+      "state": "new-york",
+      "city": "bethpage"
+    },
+    {
+      "state": "new-york",
+      "city": "billington-heights"
+    },
+    {
+      "state": "new-york",
+      "city": "binghamton"
+    },
+    {
+      "state": "new-york",
+      "city": "binghamton-university"
+    },
+    {
+      "state": "new-york",
+      "city": "black-river"
+    },
+    {
+      "state": "new-york",
+      "city": "blasdell"
+    },
+    {
+      "state": "new-york",
+      "city": "blauvelt"
+    },
+    {
+      "state": "new-york",
+      "city": "bliss"
+    },
+    {
+      "state": "new-york",
+      "city": "blodgett-mills"
+    },
+    {
+      "state": "new-york",
+      "city": "bloomfield"
+    },
+    {
+      "state": "new-york",
+      "city": "bloomingburg"
+    },
+    {
+      "state": "new-york",
+      "city": "bloomville"
+    },
+    {
+      "state": "new-york",
+      "city": "blue-point"
+    },
+    {
+      "state": "new-york",
+      "city": "bohemia"
+    },
+    {
+      "state": "new-york",
+      "city": "bolton-landing"
+    },
+    {
+      "state": "new-york",
+      "city": "brasher-falls"
+    },
+    {
+      "state": "new-york",
+      "city": "breesport"
+    },
+    {
+      "state": "new-york",
+      "city": "brentwood"
+    },
+    {
+      "state": "new-york",
+      "city": "brewerton"
+    },
+    {
+      "state": "new-york",
+      "city": "brewster"
+    },
+    {
+      "state": "new-york",
+      "city": "brewster-hill"
+    },
+    {
+      "state": "new-york",
+      "city": "briarcliff-manor"
+    },
+    {
+      "state": "new-york",
+      "city": "bridgehampton"
+    },
+    {
+      "state": "new-york",
+      "city": "bridgeport"
+    },
+    {
+      "state": "new-york",
+      "city": "brightwaters"
+    },
+    {
+      "state": "new-york",
+      "city": "brinckerhoff"
+    },
+    {
+      "state": "new-york",
+      "city": "brockport"
+    },
+    {
+      "state": "new-york",
+      "city": "brocton"
+    },
+    {
+      "state": "new-york",
+      "city": "bronx"
+    },
+    {
+      "state": "new-york",
+      "city": "bronxville"
+    },
+    {
+      "state": "new-york",
+      "city": "brooklyn"
+    },
+    {
+      "state": "new-york",
+      "city": "brookville"
+    },
+    {
+      "state": "new-york",
+      "city": "brushton"
+    },
+    {
+      "state": "new-york",
+      "city": "buchanan"
+    },
+    {
+      "state": "new-york",
+      "city": "buffalo"
+    },
+    {
+      "state": "new-york",
+      "city": "burdett"
+    },
+    {
+      "state": "new-york",
+      "city": "byersville"
+    },
+    {
+      "state": "new-york",
+      "city": "calcium"
+    },
+    {
+      "state": "new-york",
+      "city": "calverton"
+    },
+    {
+      "state": "new-york",
+      "city": "canaseraga"
+    },
+    {
+      "state": "new-york",
+      "city": "canastota"
+    },
+    {
+      "state": "new-york",
+      "city": "carle-place"
+    },
+    {
+      "state": "new-york",
+      "city": "carmel-hamlet"
+    },
+    {
+      "state": "new-york",
+      "city": "caroga-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "carthage"
+    },
+    {
+      "state": "new-york",
+      "city": "cassadaga"
+    },
+    {
+      "state": "new-york",
+      "city": "castleton-on-hudson"
+    },
+    {
+      "state": "new-york",
+      "city": "castorland"
+    },
+    {
+      "state": "new-york",
+      "city": "cattaraugus"
+    },
+    {
+      "state": "new-york",
+      "city": "cayuga"
+    },
+    {
+      "state": "new-york",
+      "city": "cayuga-heights"
+    },
+    {
+      "state": "new-york",
+      "city": "cedarhurst"
+    },
+    {
+      "state": "new-york",
+      "city": "celoron"
+    },
+    {
+      "state": "new-york",
+      "city": "center-moriches"
+    },
+    {
+      "state": "new-york",
+      "city": "centereach"
+    },
+    {
+      "state": "new-york",
+      "city": "centerport"
+    },
+    {
+      "state": "new-york",
+      "city": "central-bridge"
+    },
+    {
+      "state": "new-york",
+      "city": "central-islip"
+    },
+    {
+      "state": "new-york",
+      "city": "central-square"
     }
   ],
-  "generatedAt": "2026-11-07T15:16:25.310Z"
+  "generatedAt": "2026-11-08T15:40:08.515Z"
 }
