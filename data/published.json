@@ -67599,7 +67599,407 @@
     {
       "state": "new-york",
       "city": "point-lookout"
+    },
+    {
+      "state": "new-york",
+      "city": "pomona"
+    },
+    {
+      "state": "new-york",
+      "city": "poquott"
+    },
+    {
+      "state": "new-york",
+      "city": "port-byron"
+    },
+    {
+      "state": "new-york",
+      "city": "port-chester"
+    },
+    {
+      "state": "new-york",
+      "city": "port-dickinson"
+    },
+    {
+      "state": "new-york",
+      "city": "port-ewen"
+    },
+    {
+      "state": "new-york",
+      "city": "port-gibson"
+    },
+    {
+      "state": "new-york",
+      "city": "port-jefferson"
+    },
+    {
+      "state": "new-york",
+      "city": "port-jefferson-station"
+    },
+    {
+      "state": "new-york",
+      "city": "port-jervis"
+    },
+    {
+      "state": "new-york",
+      "city": "port-leyden"
+    },
+    {
+      "state": "new-york",
+      "city": "port-washington"
+    },
+    {
+      "state": "new-york",
+      "city": "port-washington-north"
+    },
+    {
+      "state": "new-york",
+      "city": "pottersville"
+    },
+    {
+      "state": "new-york",
+      "city": "poughkeepsie"
+    },
+    {
+      "state": "new-york",
+      "city": "preston-potter-hollow"
+    },
+    {
+      "state": "new-york",
+      "city": "prospect"
+    },
+    {
+      "state": "new-york",
+      "city": "pulaski"
+    },
+    {
+      "state": "new-york",
+      "city": "pultneyville"
+    },
+    {
+      "state": "new-york",
+      "city": "putnam-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "queens"
+    },
+    {
+      "state": "new-york",
+      "city": "quiogue"
+    },
+    {
+      "state": "new-york",
+      "city": "quogue"
+    },
+    {
+      "state": "new-york",
+      "city": "ransomville"
+    },
+    {
+      "state": "new-york",
+      "city": "rapids"
+    },
+    {
+      "state": "new-york",
+      "city": "ravena"
+    },
+    {
+      "state": "new-york",
+      "city": "red-creek"
+    },
+    {
+      "state": "new-york",
+      "city": "red-oaks-mill"
+    },
+    {
+      "state": "new-york",
+      "city": "redford"
+    },
+    {
+      "state": "new-york",
+      "city": "redwood"
+    },
+    {
+      "state": "new-york",
+      "city": "remsenburg-speonk"
+    },
+    {
+      "state": "new-york",
+      "city": "rensselaer"
+    },
+    {
+      "state": "new-york",
+      "city": "rensselaer-falls"
+    },
+    {
+      "state": "new-york",
+      "city": "retsof"
+    },
+    {
+      "state": "new-york",
+      "city": "rhinecliff"
+    },
+    {
+      "state": "new-york",
+      "city": "richburg"
+    },
+    {
+      "state": "new-york",
+      "city": "richfield-springs"
+    },
+    {
+      "state": "new-york",
+      "city": "richville"
+    },
+    {
+      "state": "new-york",
+      "city": "ridge"
+    },
+    {
+      "state": "new-york",
+      "city": "rifton"
+    },
+    {
+      "state": "new-york",
+      "city": "riverside"
+    },
+    {
+      "state": "new-york",
+      "city": "rochester"
+    },
+    {
+      "state": "new-york",
+      "city": "rock-hill"
+    },
+    {
+      "state": "new-york",
+      "city": "rockville-centre"
+    },
+    {
+      "state": "new-york",
+      "city": "rocky-point"
+    },
+    {
+      "state": "new-york",
+      "city": "rome"
+    },
+    {
+      "state": "new-york",
+      "city": "ronkonkoma"
+    },
+    {
+      "state": "new-york",
+      "city": "roosevelt"
+    },
+    {
+      "state": "new-york",
+      "city": "roscoe"
+    },
+    {
+      "state": "new-york",
+      "city": "rosendale-hamlet"
+    },
+    {
+      "state": "new-york",
+      "city": "roslyn"
+    },
+    {
+      "state": "new-york",
+      "city": "roslyn-estates"
+    },
+    {
+      "state": "new-york",
+      "city": "roslyn-harbor"
+    },
+    {
+      "state": "new-york",
+      "city": "roslyn-heights"
+    },
+    {
+      "state": "new-york",
+      "city": "round-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "rouses-point"
+    },
+    {
+      "state": "new-york",
+      "city": "rushville"
+    },
+    {
+      "state": "new-york",
+      "city": "russell-gardens"
+    },
+    {
+      "state": "new-york",
+      "city": "rye-brook"
+    },
+    {
+      "state": "new-york",
+      "city": "sackets-harbor"
+    },
+    {
+      "state": "new-york",
+      "city": "saddle-rock"
+    },
+    {
+      "state": "new-york",
+      "city": "saddle-rock-estates"
+    },
+    {
+      "state": "new-york",
+      "city": "sag-harbor"
+    },
+    {
+      "state": "new-york",
+      "city": "sagaponack"
+    },
+    {
+      "state": "new-york",
+      "city": "salamanca"
+    },
+    {
+      "state": "new-york",
+      "city": "salisbury"
+    },
+    {
+      "state": "new-york",
+      "city": "salisbury-mills"
+    },
+    {
+      "state": "new-york",
+      "city": "salt-point"
+    },
+    {
+      "state": "new-york",
+      "city": "saltaire"
+    },
+    {
+      "state": "new-york",
+      "city": "sanborn"
+    },
+    {
+      "state": "new-york",
+      "city": "sand-ridge"
+    },
+    {
+      "state": "new-york",
+      "city": "sands-point"
+    },
+    {
+      "state": "new-york",
+      "city": "saranac-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "saratoga-springs"
+    },
+    {
+      "state": "new-york",
+      "city": "saugerties-south"
+    },
+    {
+      "state": "new-york",
+      "city": "savona"
+    },
+    {
+      "state": "new-york",
+      "city": "sayville"
+    },
+    {
+      "state": "new-york",
+      "city": "scarsdale"
+    },
+    {
+      "state": "new-york",
+      "city": "schenectady"
+    },
+    {
+      "state": "new-york",
+      "city": "schenevus"
+    },
+    {
+      "state": "new-york",
+      "city": "schroon-lake"
+    },
+    {
+      "state": "new-york",
+      "city": "schuylerville"
+    },
+    {
+      "state": "new-york",
+      "city": "scotchtown"
+    },
+    {
+      "state": "new-york",
+      "city": "scotia"
+    },
+    {
+      "state": "new-york",
+      "city": "scotts-corners"
+    },
+    {
+      "state": "new-york",
+      "city": "scottsburg"
+    },
+    {
+      "state": "new-york",
+      "city": "scottsville"
+    },
+    {
+      "state": "new-york",
+      "city": "sea-cliff"
+    },
+    {
+      "state": "new-york",
+      "city": "seaford"
+    },
+    {
+      "state": "new-york",
+      "city": "searingtown"
+    },
+    {
+      "state": "new-york",
+      "city": "selden"
+    },
+    {
+      "state": "new-york",
+      "city": "seneca-knolls"
+    },
+    {
+      "state": "new-york",
+      "city": "sharon-springs"
+    },
+    {
+      "state": "new-york",
+      "city": "shelter-island-heights"
+    },
+    {
+      "state": "new-york",
+      "city": "shenorock"
+    },
+    {
+      "state": "new-york",
+      "city": "sherrill"
+    },
+    {
+      "state": "new-york",
+      "city": "shinnecock-hills"
+    },
+    {
+      "state": "new-york",
+      "city": "shirley"
+    },
+    {
+      "state": "new-york",
+      "city": "shokan"
+    },
+    {
+      "state": "new-york",
+      "city": "shoreham"
     }
   ],
-  "generatedAt": "2026-11-13T16:51:25.114Z"
+  "generatedAt": "2026-11-14T15:24:54.304Z"
 }
