@@ -70399,7 +70399,407 @@
     {
       "state": "north-carolina",
       "city": "moncure"
+    },
+    {
+      "state": "north-carolina",
+      "city": "monroe"
+    },
+    {
+      "state": "north-carolina",
+      "city": "montreat"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mooresboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mooresville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "moravian-falls"
+    },
+    {
+      "state": "north-carolina",
+      "city": "morehead-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "morganton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "morrisville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "morven"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mount-airy"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mount-gilead"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mount-holly"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mount-olive"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mount-pleasant"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mountain-home"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mountain-view"
+    },
+    {
+      "state": "north-carolina",
+      "city": "moyock"
+    },
+    {
+      "state": "north-carolina",
+      "city": "mulberry"
+    },
+    {
+      "state": "north-carolina",
+      "city": "murfreesboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "murphy"
+    },
+    {
+      "state": "north-carolina",
+      "city": "murraysville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "myrtle-grove"
+    },
+    {
+      "state": "north-carolina",
+      "city": "nags-head"
+    },
+    {
+      "state": "north-carolina",
+      "city": "nashville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "navassa"
+    },
+    {
+      "state": "north-carolina",
+      "city": "neuse-forest"
+    },
+    {
+      "state": "north-carolina",
+      "city": "new-bern"
+    },
+    {
+      "state": "north-carolina",
+      "city": "new-london"
+    },
+    {
+      "state": "north-carolina",
+      "city": "newland"
+    },
+    {
+      "state": "north-carolina",
+      "city": "newport"
+    },
+    {
+      "state": "north-carolina",
+      "city": "newton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "newton-grove"
+    },
+    {
+      "state": "north-carolina",
+      "city": "norlina"
+    },
+    {
+      "state": "north-carolina",
+      "city": "norman"
+    },
+    {
+      "state": "north-carolina",
+      "city": "north-topsail-beach"
+    },
+    {
+      "state": "north-carolina",
+      "city": "north-wilkesboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "northchase"
+    },
+    {
+      "state": "north-carolina",
+      "city": "northlakes"
+    },
+    {
+      "state": "north-carolina",
+      "city": "northwest"
+    },
+    {
+      "state": "north-carolina",
+      "city": "norwood"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oak-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oak-island"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oak-ridge"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oakboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ocean-isle-beach"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ocracoke"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ogden"
+    },
+    {
+      "state": "north-carolina",
+      "city": "old-fort"
+    },
+    {
+      "state": "north-carolina",
+      "city": "old-hundred"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oriental"
+    },
+    {
+      "state": "north-carolina",
+      "city": "orrum"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ossipee"
+    },
+    {
+      "state": "north-carolina",
+      "city": "oxford"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pantego"
+    },
+    {
+      "state": "north-carolina",
+      "city": "parkton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "parmele"
+    },
+    {
+      "state": "north-carolina",
+      "city": "patterson-springs"
+    },
+    {
+      "state": "north-carolina",
+      "city": "peachland"
+    },
+    {
+      "state": "north-carolina",
+      "city": "peletier"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pembroke"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pikeville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pilot-mountain"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pine-knoll-shores"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pine-level"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pinebluff"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pinehurst"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pinetops"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pinetown"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pineville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "piney-green"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pink-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pinnacle"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pittsboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "plain-view"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pleasant-garden"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pleasant-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "plymouth"
+    },
+    {
+      "state": "north-carolina",
+      "city": "polkton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "polkville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pollocksville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "porters-neck"
+    },
+    {
+      "state": "north-carolina",
+      "city": "potters-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "powellsville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "princeton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "princeville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "proctorville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "prospect"
+    },
+    {
+      "state": "north-carolina",
+      "city": "pumpkin-center"
+    },
+    {
+      "state": "north-carolina",
+      "city": "raeford"
+    },
+    {
+      "state": "north-carolina",
+      "city": "raemon"
+    },
+    {
+      "state": "north-carolina",
+      "city": "raleigh"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ramseur"
+    },
+    {
+      "state": "north-carolina",
+      "city": "randleman"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ranlo"
+    },
+    {
+      "state": "north-carolina",
+      "city": "raynham"
+    },
+    {
+      "state": "north-carolina",
+      "city": "red-cross"
+    },
+    {
+      "state": "north-carolina",
+      "city": "red-oak"
+    },
+    {
+      "state": "north-carolina",
+      "city": "red-springs"
+    },
+    {
+      "state": "north-carolina",
+      "city": "reidsville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rennert"
     }
   ],
-  "generatedAt": "2026-11-20T17:25:32.472Z"
+  "generatedAt": "2026-11-21T16:29:37.662Z"
 }
