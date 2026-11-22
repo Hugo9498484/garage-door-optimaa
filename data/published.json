@@ -70799,7 +70799,407 @@
     {
       "state": "north-carolina",
       "city": "rennert"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rhodhiss"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rich-square"
+    },
+    {
+      "state": "north-carolina",
+      "city": "richfield"
+    },
+    {
+      "state": "north-carolina",
+      "city": "richlands"
+    },
+    {
+      "state": "north-carolina",
+      "city": "riegelwood"
+    },
+    {
+      "state": "north-carolina",
+      "city": "river-bend"
+    },
+    {
+      "state": "north-carolina",
+      "city": "river-road"
+    },
+    {
+      "state": "north-carolina",
+      "city": "roanoke-rapids"
+    },
+    {
+      "state": "north-carolina",
+      "city": "robbins"
+    },
+    {
+      "state": "north-carolina",
+      "city": "robbinsville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "robersonville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rockfish"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rockingham"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rockwell"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rocky-mount"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rocky-point"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rodanthe"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rolesville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ronda"
+    },
+    {
+      "state": "north-carolina",
+      "city": "roper"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rose-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "roseboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rosman"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rougemont"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rowland"
+    },
+    {
+      "state": "north-carolina",
+      "city": "roxboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "roxobel"
+    },
+    {
+      "state": "north-carolina",
+      "city": "royal-pines"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ruffin"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rural-hall"
+    },
+    {
+      "state": "north-carolina",
+      "city": "ruth"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rutherford-college"
+    },
+    {
+      "state": "north-carolina",
+      "city": "rutherfordton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "salem"
+    },
+    {
+      "state": "north-carolina",
+      "city": "salemburg"
+    },
+    {
+      "state": "north-carolina",
+      "city": "salisbury"
+    },
+    {
+      "state": "north-carolina",
+      "city": "saluda"
+    },
+    {
+      "state": "north-carolina",
+      "city": "salvo"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sandy-creek"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sandyfield"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sanford"
+    },
+    {
+      "state": "north-carolina",
+      "city": "saratoga"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sawmills"
+    },
+    {
+      "state": "north-carolina",
+      "city": "saxapahaw"
+    },
+    {
+      "state": "north-carolina",
+      "city": "scotch-meadows"
+    },
+    {
+      "state": "north-carolina",
+      "city": "scotland-neck"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sea-breeze"
+    },
+    {
+      "state": "north-carolina",
+      "city": "seaboard"
+    },
+    {
+      "state": "north-carolina",
+      "city": "seagrove"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sedalia"
+    },
+    {
+      "state": "north-carolina",
+      "city": "selma"
+    },
+    {
+      "state": "north-carolina",
+      "city": "seven-devils"
+    },
+    {
+      "state": "north-carolina",
+      "city": "seven-lakes"
+    },
+    {
+      "state": "north-carolina",
+      "city": "seven-springs"
+    },
+    {
+      "state": "north-carolina",
+      "city": "severn"
+    },
+    {
+      "state": "north-carolina",
+      "city": "shallotte"
+    },
+    {
+      "state": "north-carolina",
+      "city": "shannon"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sharpsburg"
+    },
+    {
+      "state": "north-carolina",
+      "city": "shelby"
+    },
+    {
+      "state": "north-carolina",
+      "city": "siler-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "silver-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "silver-lake"
+    },
+    {
+      "state": "north-carolina",
+      "city": "simpson"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sims"
+    },
+    {
+      "state": "north-carolina",
+      "city": "skippers-corner"
+    },
+    {
+      "state": "north-carolina",
+      "city": "smithfield"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sneads-ferry"
+    },
+    {
+      "state": "north-carolina",
+      "city": "snow-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "south-henderson"
+    },
+    {
+      "state": "north-carolina",
+      "city": "south-mills"
+    },
+    {
+      "state": "north-carolina",
+      "city": "south-rosemary"
+    },
+    {
+      "state": "north-carolina",
+      "city": "south-weldon"
+    },
+    {
+      "state": "north-carolina",
+      "city": "southern-pines"
+    },
+    {
+      "state": "north-carolina",
+      "city": "southern-shores"
+    },
+    {
+      "state": "north-carolina",
+      "city": "southmont"
+    },
+    {
+      "state": "north-carolina",
+      "city": "southport"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sparta"
+    },
+    {
+      "state": "north-carolina",
+      "city": "speed"
+    },
+    {
+      "state": "north-carolina",
+      "city": "spencer"
+    },
+    {
+      "state": "north-carolina",
+      "city": "spindale"
+    },
+    {
+      "state": "north-carolina",
+      "city": "spring-hope"
+    },
+    {
+      "state": "north-carolina",
+      "city": "spring-lake"
+    },
+    {
+      "state": "north-carolina",
+      "city": "spruce-pine"
+    },
+    {
+      "state": "north-carolina",
+      "city": "st-helena"
+    },
+    {
+      "state": "north-carolina",
+      "city": "st-james"
+    },
+    {
+      "state": "north-carolina",
+      "city": "st-pauls"
+    },
+    {
+      "state": "north-carolina",
+      "city": "st-stephens"
+    },
+    {
+      "state": "north-carolina",
+      "city": "staley"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stallings"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stanfield"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stanley"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stantonsburg"
+    },
+    {
+      "state": "north-carolina",
+      "city": "star"
+    },
+    {
+      "state": "north-carolina",
+      "city": "statesville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stedman"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stem"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stokes"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stokesdale"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stoneville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stonewall"
     }
   ],
-  "generatedAt": "2026-11-21T16:29:37.662Z"
+  "generatedAt": "2026-11-22T16:47:15.929Z"
 }
