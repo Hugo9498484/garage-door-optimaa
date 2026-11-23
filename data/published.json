@@ -71199,7 +71199,407 @@
     {
       "state": "north-carolina",
       "city": "stonewall"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stony-point"
+    },
+    {
+      "state": "north-carolina",
+      "city": "stovall"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sugar-mountain"
+    },
+    {
+      "state": "north-carolina",
+      "city": "summerfield"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sunbury"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sunset-beach"
+    },
+    {
+      "state": "north-carolina",
+      "city": "surf-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "swan-quarter"
+    },
+    {
+      "state": "north-carolina",
+      "city": "swannanoa"
+    },
+    {
+      "state": "north-carolina",
+      "city": "swansboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "swepsonville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "sylva"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tabor-city"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tar-heel"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tarboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "taylorsville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "taylortown"
+    },
+    {
+      "state": "north-carolina",
+      "city": "teachey"
+    },
+    {
+      "state": "north-carolina",
+      "city": "thomasville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "toast"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tobaccoville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "topsail-beach"
+    },
+    {
+      "state": "north-carolina",
+      "city": "trent-woods"
+    },
+    {
+      "state": "north-carolina",
+      "city": "trenton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "trinity"
+    },
+    {
+      "state": "north-carolina",
+      "city": "troutman"
+    },
+    {
+      "state": "north-carolina",
+      "city": "troy"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tryon"
+    },
+    {
+      "state": "north-carolina",
+      "city": "turkey"
+    },
+    {
+      "state": "north-carolina",
+      "city": "tyro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "unionville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "valdese"
+    },
+    {
+      "state": "north-carolina",
+      "city": "valle-crucis"
+    },
+    {
+      "state": "north-carolina",
+      "city": "valley-hill"
+    },
+    {
+      "state": "north-carolina",
+      "city": "vanceboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "vandemere"
+    },
+    {
+      "state": "north-carolina",
+      "city": "vander"
+    },
+    {
+      "state": "north-carolina",
+      "city": "vann-crossroads"
+    },
+    {
+      "state": "north-carolina",
+      "city": "varnamtown"
+    },
+    {
+      "state": "north-carolina",
+      "city": "vass"
+    },
+    {
+      "state": "north-carolina",
+      "city": "waco"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wade"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wadesboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wagram"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wake-forest"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wakulla"
+    },
+    {
+      "state": "north-carolina",
+      "city": "walkertown"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wallace"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wallburg"
+    },
+    {
+      "state": "north-carolina",
+      "city": "walnut-cove"
+    },
+    {
+      "state": "north-carolina",
+      "city": "walnut-creek"
+    },
+    {
+      "state": "north-carolina",
+      "city": "walstonburg"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wanchese"
+    },
+    {
+      "state": "north-carolina",
+      "city": "warrenton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "warsaw"
+    },
+    {
+      "state": "north-carolina",
+      "city": "washington"
+    },
+    {
+      "state": "north-carolina",
+      "city": "washington-park"
+    },
+    {
+      "state": "north-carolina",
+      "city": "watha"
+    },
+    {
+      "state": "north-carolina",
+      "city": "waves"
+    },
+    {
+      "state": "north-carolina",
+      "city": "waxhaw"
+    },
+    {
+      "state": "north-carolina",
+      "city": "waynesville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "weaverville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "webster"
+    },
+    {
+      "state": "north-carolina",
+      "city": "weddington"
+    },
+    {
+      "state": "north-carolina",
+      "city": "welcome"
+    },
+    {
+      "state": "north-carolina",
+      "city": "weldon"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wendell"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wentworth"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wesley-chapel"
+    },
+    {
+      "state": "north-carolina",
+      "city": "west-canton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "west-jefferson"
+    },
+    {
+      "state": "north-carolina",
+      "city": "west-marion"
+    },
+    {
+      "state": "north-carolina",
+      "city": "westport"
+    },
+    {
+      "state": "north-carolina",
+      "city": "whispering-pines"
+    },
+    {
+      "state": "north-carolina",
+      "city": "whitakers"
+    },
+    {
+      "state": "north-carolina",
+      "city": "white-lake"
+    },
+    {
+      "state": "north-carolina",
+      "city": "white-oak"
+    },
+    {
+      "state": "north-carolina",
+      "city": "white-plains"
+    },
+    {
+      "state": "north-carolina",
+      "city": "whiteville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "whitsett"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wilkesboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "williamston"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wilmington"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wilson"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wilson-s-mills"
+    },
+    {
+      "state": "north-carolina",
+      "city": "windsor"
+    },
+    {
+      "state": "north-carolina",
+      "city": "winfall"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wingate"
+    },
+    {
+      "state": "north-carolina",
+      "city": "winston-salem"
+    },
+    {
+      "state": "north-carolina",
+      "city": "winterville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "winton"
+    },
+    {
+      "state": "north-carolina",
+      "city": "woodfin"
+    },
+    {
+      "state": "north-carolina",
+      "city": "woodland"
+    },
+    {
+      "state": "north-carolina",
+      "city": "woodlawn"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wrightsboro"
+    },
+    {
+      "state": "north-carolina",
+      "city": "wrightsville-beach"
+    },
+    {
+      "state": "north-carolina",
+      "city": "yadkinville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "yanceyville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "youngsville"
+    },
+    {
+      "state": "north-carolina",
+      "city": "zebulon"
     }
   ],
-  "generatedAt": "2026-11-22T16:47:15.929Z"
+  "generatedAt": "2026-11-23T20:43:17.110Z"
 }
