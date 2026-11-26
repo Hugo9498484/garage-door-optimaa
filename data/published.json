@@ -72399,7 +72399,407 @@
     {
       "state": "north-dakota",
       "city": "kindred"
+    },
+    {
+      "state": "north-dakota",
+      "city": "knox"
+    },
+    {
+      "state": "north-dakota",
+      "city": "kramer"
+    },
+    {
+      "state": "north-dakota",
+      "city": "kulm"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lakota"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lamoure"
+    },
+    {
+      "state": "north-dakota",
+      "city": "landa"
+    },
+    {
+      "state": "north-dakota",
+      "city": "langdon"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lankin"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lansford"
+    },
+    {
+      "state": "north-dakota",
+      "city": "larimore"
+    },
+    {
+      "state": "north-dakota",
+      "city": "larson"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lawton"
+    },
+    {
+      "state": "north-dakota",
+      "city": "leal"
+    },
+    {
+      "state": "north-dakota",
+      "city": "leeds"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lehr"
+    },
+    {
+      "state": "north-dakota",
+      "city": "leith"
+    },
+    {
+      "state": "north-dakota",
+      "city": "leonard"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lidgerwood"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lignite"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lincoln"
+    },
+    {
+      "state": "north-dakota",
+      "city": "linton"
+    },
+    {
+      "state": "north-dakota",
+      "city": "lisbon"
+    },
+    {
+      "state": "north-dakota",
+      "city": "litchville"
+    },
+    {
+      "state": "north-dakota",
+      "city": "logan"
+    },
+    {
+      "state": "north-dakota",
+      "city": "loma"
+    },
+    {
+      "state": "north-dakota",
+      "city": "loraine"
+    },
+    {
+      "state": "north-dakota",
+      "city": "ludden"
+    },
+    {
+      "state": "north-dakota",
+      "city": "luverne"
+    },
+    {
+      "state": "north-dakota",
+      "city": "maddock"
+    },
+    {
+      "state": "north-dakota",
+      "city": "makoti"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mandan"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mandaree"
+    },
+    {
+      "state": "north-dakota",
+      "city": "manning"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mantador"
+    },
+    {
+      "state": "north-dakota",
+      "city": "manvel"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mapleton"
+    },
+    {
+      "state": "north-dakota",
+      "city": "marion"
+    },
+    {
+      "state": "north-dakota",
+      "city": "marmarth"
+    },
+    {
+      "state": "north-dakota",
+      "city": "martin"
+    },
+    {
+      "state": "north-dakota",
+      "city": "max"
+    },
+    {
+      "state": "north-dakota",
+      "city": "maxbass"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mayville"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mcclusky"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mchenry"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mcville"
+    },
+    {
+      "state": "north-dakota",
+      "city": "medina"
+    },
+    {
+      "state": "north-dakota",
+      "city": "medora"
+    },
+    {
+      "state": "north-dakota",
+      "city": "menoken"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mercer"
+    },
+    {
+      "state": "north-dakota",
+      "city": "michigan-city"
+    },
+    {
+      "state": "north-dakota",
+      "city": "milnor"
+    },
+    {
+      "state": "north-dakota",
+      "city": "milton"
+    },
+    {
+      "state": "north-dakota",
+      "city": "minnewaukan"
+    },
+    {
+      "state": "north-dakota",
+      "city": "minot"
+    },
+    {
+      "state": "north-dakota",
+      "city": "minot-afb"
+    },
+    {
+      "state": "north-dakota",
+      "city": "minto"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mohall"
+    },
+    {
+      "state": "north-dakota",
+      "city": "monango"
+    },
+    {
+      "state": "north-dakota",
+      "city": "montpelier"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mooreton"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mott"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mountain"
+    },
+    {
+      "state": "north-dakota",
+      "city": "munich"
+    },
+    {
+      "state": "north-dakota",
+      "city": "mylo"
+    },
+    {
+      "state": "north-dakota",
+      "city": "napoleon"
+    },
+    {
+      "state": "north-dakota",
+      "city": "nash"
+    },
+    {
+      "state": "north-dakota",
+      "city": "neche"
+    },
+    {
+      "state": "north-dakota",
+      "city": "nekoma"
+    },
+    {
+      "state": "north-dakota",
+      "city": "new-england"
+    },
+    {
+      "state": "north-dakota",
+      "city": "new-leipzig"
+    },
+    {
+      "state": "north-dakota",
+      "city": "new-rockford"
+    },
+    {
+      "state": "north-dakota",
+      "city": "new-salem"
+    },
+    {
+      "state": "north-dakota",
+      "city": "new-town"
+    },
+    {
+      "state": "north-dakota",
+      "city": "newburg"
+    },
+    {
+      "state": "north-dakota",
+      "city": "niagara"
+    },
+    {
+      "state": "north-dakota",
+      "city": "nome"
+    },
+    {
+      "state": "north-dakota",
+      "city": "noonan"
+    },
+    {
+      "state": "north-dakota",
+      "city": "north-river"
+    },
+    {
+      "state": "north-dakota",
+      "city": "northwood"
+    },
+    {
+      "state": "north-dakota",
+      "city": "oakes"
+    },
+    {
+      "state": "north-dakota",
+      "city": "oberon"
+    },
+    {
+      "state": "north-dakota",
+      "city": "oriska"
+    },
+    {
+      "state": "north-dakota",
+      "city": "osnabrock"
+    },
+    {
+      "state": "north-dakota",
+      "city": "overly"
+    },
+    {
+      "state": "north-dakota",
+      "city": "oxbow"
+    },
+    {
+      "state": "north-dakota",
+      "city": "page"
+    },
+    {
+      "state": "north-dakota",
+      "city": "palermo"
+    },
+    {
+      "state": "north-dakota",
+      "city": "park-river"
+    },
+    {
+      "state": "north-dakota",
+      "city": "parshall"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pekin"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pembina"
+    },
+    {
+      "state": "north-dakota",
+      "city": "perth"
+    },
+    {
+      "state": "north-dakota",
+      "city": "petersburg"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pettibone"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pick-city"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pillsbury"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pingree"
+    },
+    {
+      "state": "north-dakota",
+      "city": "pisek"
+    },
+    {
+      "state": "north-dakota",
+      "city": "plaza"
+    },
+    {
+      "state": "north-dakota",
+      "city": "porcupine"
     }
   ],
-  "generatedAt": "2026-11-25T18:54:11.909Z"
+  "generatedAt": "2026-11-26T18:43:19.727Z"
 }
